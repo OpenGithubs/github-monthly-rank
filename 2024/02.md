@@ -4,105 +4,99 @@
 - Github : https://github.com/OpenGithubs
 - Github 2023:https://github.com/OpenGithubs/Summary2023
 
-## 统计周期：2024.01.06-2024.02.05
+## 统计周期：2024.01.19-2024.02.18
 
 - 每月开源项目飙升榜:https://github.com/OpenGithubs/github-weekly-rank
 
 
-> 月榜最佳项目前3名
+> 月榜最佳项目前5名
 
 - 榜单排名：第1名
-    - 开源地址：https://github.com/practical-tutorials/project-based-learning
-    - 开源时间：2017-04-12
-    - 开源Stars：155174⭐
-    - 月Star增长量：⭐
+    - 开源地址：https://github.com/KRTirtho/spotube
+    - 开源时间：2021-02-14
+    - 开源Stars：22060⭐
+    - 月Star增长量：10572⭐
 
 - 榜单排名：第2名
-    - 开源地址：https://github.com/mlabonne/llm-course
-    - 开源时间：2023-06-18
-    - 开源Stars：22931⭐
-    - 月Star增长量：⭐
-
-- 榜单排名：第3名
     - 开源地址：https://github.com/FuelLabs/sway
     - 开源时间：2021-01-20
-    - 开源Stars：45814⭐
-    - 月Star增长量：⭐
+    - 开源Stars：51020⭐
+    - 月Star增长量：10051⭐
+
+- 榜单排名：第3名
+    - 开源地址：https://github.com/mlabonne/llm-course
+    - 开源时间：2023-06-18
+    - 开源Stars：23762⭐
+    - 月Star增长量：7786⭐
 
 - 榜单排名：第4名
     - 开源地址：https://github.com/jmorganca/ollama
     - 开源时间：2023-06-27
-    - 开源Stars：35181⭐
-    - 月Star增长量：⭐
+    - 开源Stars：37805⭐
+    - 月Star增长量：6216⭐
 
 - 榜单排名：第5名
-    - 开源地址：https://github.com/usememos/memos
-    - 开源时间：2021-12-08
-    - 开源Stars：23400⭐
-    - 月Star增长量：⭐
-
-- 榜单排名：第6名
-    - 开源地址：https://github.com/keylase/nvidia-patch
-    - 开源时间：2016-07-15
-    - 开源Stars：2744⭐
-    - 月Star增长量：⭐
+    - 开源地址：https://github.com/practical-tutorials/project-based-learning
+    - 开源时间：2017-04-12
+    - 开源Stars：156527⭐
+    - 月Star增长量：5606⭐
 
 
 
 ## 月排行榜
 
-| 排名        |  用户     |  项目名          | Star⭐          | 上月增长量    | 上月增长量   | 上周增长量      |  开源时间   |
+| 排名        |  用户     |  项目名          | Star⭐          | 上月增长量    | 上月增长率   | 上周增长量      |  开源时间   |
 |------------|------------|---------------|---------------- |--------------|--------------|----------------|------------|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 155.2k | 🔺 | 🔺0 | 🔺3406 | 2017-04-12 |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/81252890?u=f9898d723658a498328f14f717e1eeccb42ca675&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)| 22.9k | 🔺 | 🔺0 | 🔺3999 | 2023-06-18 |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/55993183?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [FuelLabs/sway](https://github.com/FuelLabs/sway)| 45.8k | 🔺 | 🔺0 | 🔺4060 | 2021-01-20 |
-| 4 | <img src="https://avatars.githubusercontent.com/u/151674099?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jmorganca/ollama](https://github.com/jmorganca/ollama)| 35.2k | 🔺 | 🔺0 | 🔺2798 | 2023-06-27 |
-| 5 | <img src="https://avatars.githubusercontent.com/u/95764151?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [usememos/memos](https://github.com/usememos/memos)| 23.4k | 🔺 | 🔺0 | 🔺913 | 2021-12-08 |
-| 6 | <img src="https://avatars.githubusercontent.com/u/1929404?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch)| 2.7k | 🔺 | 🔺0 | 🔺 | 2016-07-15 |
-| 7 | <img src="https://avatars.githubusercontent.com/u/10107543?u=86a0a4df7c6a80d3f015612fbb4743c8451c5bb8&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [learning-zone/website-templates](https://github.com/learning-zone/website-templates)| 4.4k | 🔺 | 🔺0 | 🔺 | 2019-09-15 |
-| 8 | <img src="https://avatars.githubusercontent.com/u/29074118?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [cri-o/cri-o](https://github.com/cri-o/cri-o)| 4.9k | 🔺 | 🔺0 | 🔺 | 2016-09-10 |
-| 9 | <img src="https://avatars.githubusercontent.com/u/17415943?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [enso-org/enso](https://github.com/enso-org/enso)| 7k | 🔺 | 🔺0 | 🔺 | 2016-12-17 |
-| 10 | <img src="https://avatars.githubusercontent.com/u/156299908?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent)| 3.5k | 🔺 | 🔺0 | 🔺 | 2019-04-15 |
-| 11 | <img src="https://avatars.githubusercontent.com/u/32689599?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [android/nowinandroid](https://github.com/android/nowinandroid)| 14.4k | 🔺 | 🔺0 | 🔺 | 2022-04-20 |
-| 12 | <img src="https://avatars.githubusercontent.com/u/22891632?u=826eeedbc2458099b6dbf1a06b29e30d614b8067&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jiayaoO3O/18-comic-finder](https://github.com/jiayaoO3O/18-comic-finder)| 1.3k | 🔺 | 🔺0 | 🔺 | 2021-02-16 |
-| 13 | <img src="https://avatars.githubusercontent.com/u/8984680?u=e4d7e61d39e149291469ba6d5f09532595ad84e3&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)| 11.2k | 🔺 | 🔺0 | 🔺 | 2022-12-05 |
-| 14 | <img src="https://avatars.githubusercontent.com/u/84990219?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [i2ii/i](https://github.com/i2ii/i)| 1.7k | 🔺 | 🔺0 | 🔺 | 2021-05-29 |
-| 15 | <img src="https://avatars.githubusercontent.com/u/5959286?u=4dec02f28f78e74bd1d3b7c1096415a4a4291fab&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jarun/nnn](https://github.com/jarun/nnn)| 17.8k | 🔺 | 🔺0 | 🔺 | 2016-08-20 |
-| 16 | <img src="https://avatars.githubusercontent.com/u/10577978?u=d311ca7b664020e21ec5ef0ca8fe9eb337045b5b&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [ngosang/trackerslist](https://github.com/ngosang/trackerslist)| 43.3k | 🔺 | 🔺0 | 🔺 | 2016-04-24 |
-| 17 | <img src="https://avatars.githubusercontent.com/u/6436073?u=c636a3fb46269423f33cceaa29def29135970be6&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)| 7.1k | 🔺 | 🔺0 | 🔺 | 2022-06-25 |
-| 18 | <img src="https://avatars.githubusercontent.com/u/4498233?u=cc6bbc7818a7960f50b1dd9bae5d01b160ebdc0c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [max32002/tixcraft_bot](https://github.com/max32002/tixcraft_bot)| 1.3k | 🔺 | 🔺0 | 🔺 | 2019-10-02 |
-| 19 | <img src="https://avatars.githubusercontent.com/u/8601733?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [gothinkster/realworld](https://github.com/gothinkster/realworld)| 77.6k | 🔺 | 🔺0 | 🔺 | 2016-02-27 |
-| 20 | <img src="https://avatars.githubusercontent.com/u/82347605?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [oceanbase/miniob](https://github.com/oceanbase/miniob)| 2.6k | 🔺 | 🔺0 | 🔺 | 2021-10-12 |
-| 21 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/presidio](https://github.com/microsoft/presidio)| 2.7k | 🔺 | 🔺0 | 🔺 | 2018-05-04 |
-| 22 | <img src="https://avatars.githubusercontent.com/u/25065347?u=ddfc8b7812ebc8cbd9245f499e4703bf3165ec31&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)| 7.9k | 🔺 | 🔺0 | 🔺153 | 2020-04-05 |
-| 23 | <img src="https://avatars.githubusercontent.com/u/85344006?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [remotion-dev/remotion](https://github.com/remotion-dev/remotion)| 18.5k | 🔺 | 🔺0 | 🔺83 | 2020-06-24 |
-| 24 | <img src="https://avatars.githubusercontent.com/u/2393781?u=1bf6047eb6227942afcba2ce08dad1b1dc609ead&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)| 6.6k | 🔺 | 🔺0 | 🔺 | 2017-07-19 |
-| 25 | <img src="https://avatars.githubusercontent.com/u/68234346?u=9ba5329bb9112c23670cd5a644de6acb219435e3&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)| 2.3k | 🔺 | 🔺0 | 🔺 | 2021-11-27 |
-| 26 | <img src="https://avatars.githubusercontent.com/u/102226726?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [labring/sealos](https://github.com/labring/sealos)| 12.5k | 🔺 | 🔺0 | 🔺 | 2018-08-15 |
-| 27 | <img src="https://avatars.githubusercontent.com/u/30764933?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)| 45.9k | 🔺 | 🔺0 | 🔺99 | 2016-09-02 |
-| 28 | <img src="https://avatars.githubusercontent.com/u/61474148?u=21be197cb2e760ccf3c0ee150679563e720aad69&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator)| 6.2k | 🔺 | 🔺0 | 🔺 | 2020-03-01 |
-| 29 | <img src="https://avatars.githubusercontent.com/u/28507035?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [nestjs/nest](https://github.com/nestjs/nest)| 62.6k | 🔺 | 🔺0 | 🔺257 | 2017-02-05 |
-| 30 | <img src="https://avatars.githubusercontent.com/u/8730506?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [hyperium/tonic](https://github.com/hyperium/tonic)| 8.5k | 🔺 | 🔺0 | 🔺 | 2019-08-10 |
-| 31 | <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)| 3.9k | 🔺 | 🔺0 | 🔺 | 2020-10-25 |
-| 32 | <img src="https://avatars.githubusercontent.com/u/715491?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)| 14.5k | 🔺 | 🔺0 | 🔺7 | 2021-07-04 |
-| 33 | <img src="https://avatars.githubusercontent.com/u/19199542?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [antvis/X6](https://github.com/antvis/X6)| 5.2k | 🔺 | 🔺0 | 🔺 | 2019-11-14 |
-| 34 | <img src="https://avatars.githubusercontent.com/u/105787223?u=ae4db79cb23f3e4aa8a05cbafefb1f62e90d3010&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)| 5.2k | 🔺 | 🔺0 | 🔺 | 2022-05-30 |
-| 35 | <img src="https://avatars.githubusercontent.com/u/3287189?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [videojs/video.js](https://github.com/videojs/video.js)| 36.8k | 🔺 | 🔺0 | 🔺63 | 2010-05-15 |
-| 36 | <img src="https://avatars.githubusercontent.com/u/11855343?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [pingcap/tidb](https://github.com/pingcap/tidb)| 35.7k | 🔺 | 🔺0 | 🔺 | 2015-09-06 |
-| 37 | <img src="https://avatars.githubusercontent.com/u/6877001?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)| 8.7k | 🔺 | 🔺0 | 🔺33 | 2017-10-12 |
-| 38 | <img src="https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)| 11.4k | 🔺 | 🔺0 | 🔺 | 2022-05-10 |
-| 39 | <img src="https://avatars.githubusercontent.com/u/101227423?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)| 27.9k | 🔺 | 🔺0 | 🔺99 | 2021-09-27 |
-| 40 | <img src="https://avatars.githubusercontent.com/u/31670619?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)| 9.2k | 🔺 | 🔺0 | 🔺 | 2017-09-11 |
-| 41 | <img src="https://avatars.githubusercontent.com/u/51039745?u=accb33fa417f386eaf9fc9b2ed07ec74fb36ada3&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)| 14.2k | 🔺 | 🔺0 | 🔺68 | 2023-03-02 |
-| 42 | <img src="https://avatars.githubusercontent.com/u/69695708?u=1b1a608998950cb407854549123a52c964a202ec&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [paul-gauthier/aider](https://github.com/paul-gauthier/aider)| 6.3k | 🔺 | 🔺0 | 🔺148 | 2023-05-10 |
-| 43 | <img src="https://avatars.githubusercontent.com/u/100200663?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [gofireflyio/aiac](https://github.com/gofireflyio/aiac)| 3.1k | 🔺 | 🔺0 | 🔺 | 2022-12-07 |
-| 44 | <img src="https://avatars.githubusercontent.com/u/22936489?u=a07121c93267dba61fa328605fe6e1f9e545ae13&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)| 5.1k | 🔺 | 🔺0 | 🔺22 | 2020-12-10 |
-| 45 | <img src="https://avatars.githubusercontent.com/u/14957082?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [openai/CLIP](https://github.com/openai/CLIP)| 20.6k | 🔺 | 🔺0 | 🔺204 | 2020-12-16 |
-| 46 | <img src="https://avatars.githubusercontent.com/u/104568275?u=16d4c03b20aa1377ede4105eeb838e1f1beedf19&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design)| 3.1k | 🔺 | 🔺0 | 🔺 | 2022-04-30 |
-| 47 | <img src="https://avatars.githubusercontent.com/u/1520500?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper)| 7.2k | 🔺 | 🔺0 | 🔺252 | 2023-02-11 |
-| 48 | <img src="https://avatars.githubusercontent.com/u/132372032?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mistralai/mistral-src](https://github.com/mistralai/mistral-src)| 7.4k | 🔺 | 🔺0 | 🔺264 | 2023-09-27 |
-| 49 | <img src="https://avatars.githubusercontent.com/u/15863952?u=1bf641c5342c620cc4472245e4e13e370abf5ae5&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools)| 3.7k | 🔺 | 🔺0 | 🔺20 | 2023-10-25 |
-| 50 | <img src="https://avatars.githubusercontent.com/u/10249622?u=39133b98c78fe7cbaf0458be30352f1c5b1197c4&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [shibing624/text2vec](https://github.com/shibing624/text2vec)| 3.7k | 🔺 | 🔺0 | 🔺 | 2019-11-12 |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/61944859?u=912270e4ade246b3f8555e7a8db6a58efe6f4587&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)| 22.1k | 🔺10572 | 🔺92% | 🔺325 | 2021-02-14 |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/55993183?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [FuelLabs/sway](https://github.com/FuelLabs/sway)| 51k | 🔺10051 | 🔺24% | 🔺2036 | 2021-01-20 |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/81252890?u=f9898d723658a498328f14f717e1eeccb42ca675&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)| 23.8k | 🔺7786 | 🔺48% | 🔺316 | 2023-06-18 |
+| 4 | <img src="https://avatars.githubusercontent.com/u/151674099?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jmorganca/ollama](https://github.com/jmorganca/ollama)| 37.8k | 🔺6216 | 🔺19% | 🔺1163 | 2023-06-27 |
+| 5 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 156.5k | 🔺5606 | 🔺3% | 🔺621 | 2017-04-12 |
+| 6 | <img src="https://avatars.githubusercontent.com/u/58904235?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)| 244.8k | 🔺4976 | 🔺2% | 🔺999 | 2018-05-09 |
+| 7 | <img src="https://avatars.githubusercontent.com/u/21018904?u=bcc423f3536e0ea420dfe438d96b36a7ff2704d7&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)| 82.3k | 🔺4726 | 🔺6% | 🔺827 | 2019-09-05 |
+| 8 | <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [shadcn/ui](https://github.com/shadcn/ui)| 48.8k | 🔺4577 | 🔺10% | 🔺624 | 2023-01-04 |
+| 9 | <img src="https://avatars.githubusercontent.com/u/14127308?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)| 312k | 🔺4409 | 🔺1% | 🔺579 | 2013-10-11 |
+| 10 | <img src="https://avatars.githubusercontent.com/u/51121562?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [public-apis/public-apis](https://github.com/public-apis/public-apis)| 279.6k | 🔺4330 | 🔺1% | 🔺644 | 2016-03-21 |
+| 11 | <img src="https://avatars.githubusercontent.com/u/24270415?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)| 169.3k | 🔺4316 | 🔺2% | 🔺793 | 2015-06-01 |
+| 12 | <img src="https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)| 290.1k | 🔺4170 | 🔺1% | 🔺884 | 2014-07-11 |
+| 13 | <img src="https://avatars.githubusercontent.com/u/5458997?u=f1007b583e55e7ccfb6ccf0e200051156112dd9b&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)| 246.7k | 🔺3805 | 🔺1% | 🔺884 | 2017-02-27 |
+| 14 | <img src="https://avatars.githubusercontent.com/u/31127917?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)| 122.7k | 🔺3458 | 🔺2% | 🔺536 | 2018-06-23 |
+| 15 | <img src="https://avatars.githubusercontent.com/u/102363196?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [janhq/jan](https://github.com/janhq/jan)| 10.3k | 🔺3297 | 🔺47% | 🔺1037 | 2023-08-17 |
+| 16 | <img src="https://avatars.githubusercontent.com/u/20920490?u=8bdc7c9401f507e51b55e558baa8184d4ed30c7d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)| 121.2k | 🔺3284 | 🔺2% | 🔺577 | 2022-08-22 |
+| 17 | <img src="https://avatars.githubusercontent.com/u/16145783?u=d3427dc9181a9a33de66f739b98b282f4c3d13ed&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)| 34.4k | 🔺3147 | 🔺10% | 🔺30 | 2017-05-30 |
+| 18 | <img src="https://avatars.githubusercontent.com/u/4921183?u=d6ed3573fc67b699e0c3bc2c7e1fb82c98c40dec&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)| 266.4k | 🔺3011 | 🔺1% | 🔺435 | 2017-03-15 |
+| 19 | <img src="https://avatars.githubusercontent.com/u/652070?u=95b472a9a11b64ee0f74512ad918d762d42c213c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [vinta/awesome-python](https://github.com/vinta/awesome-python)| 198k | 🔺3000 | 🔺1% | 🔺649 | 2014-06-28 |
+| 20 | <img src="https://avatars.githubusercontent.com/u/104967037?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [refinedev/refine](https://github.com/refinedev/refine)| 21.9k | 🔺2987 | 🔺15% | 🔺368 | 2021-01-20 |
+| 21 | <img src="https://avatars.githubusercontent.com/u/95485601?u=a8d780d2fca71e6b5b1bebfbd8f17baaddb8d049&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)| 23k | 🔺2801 | 🔺13% | 🔺397 | 2023-01-11 |
+| 22 | <img src="https://avatars.githubusercontent.com/u/121283862?u=f3e53b07cfbae7136f1796d4f6453827a12c2307&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)| 25.3k | 🔺2763 | 🔺12% | 🔺502 | 2023-01-17 |
+| 23 | <img src="https://avatars.githubusercontent.com/u/59795046?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)| 62.2k | 🔺2760 | 🔺4% | 🔺457 | 2020-01-13 |
+| 24 | <img src="https://avatars.githubusercontent.com/u/120689636?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)| 54.5k | 🔺2661 | 🔺5% | 🔺156 | 2023-09-19 |
+| 25 | <img src="https://avatars.githubusercontent.com/u/667063?u=c0ea6956bba58ee8baabb6568f0374263ed96f1d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)| 7.6k | 🔺2636 | 🔺52% | 🔺453 | 2023-10-27 |
+| 26 | <img src="https://avatars.githubusercontent.com/u/59452120?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)| 68.2k | 🔺2584 | 🔺3% | 🔺361 | 2020-01-02 |
+| 27 | <img src="https://avatars.githubusercontent.com/u/48798027?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)| 29.9k | 🔺2556 | 🔺9% | 🔺315 | 2020-04-14 |
+| 28 | <img src="https://avatars.githubusercontent.com/u/3771963?u=4b348c742192b1963aabbf803a1174d2a4de155a&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)| 278.1k | 🔺2491 | 🔺0% | 🔺431 | 2016-06-06 |
+| 29 | <img src="https://avatars.githubusercontent.com/u/1315101?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)| 106.9k | 🔺2449 | 🔺2% | 🔺290 | 2016-07-05 |
+| 30 | <img src="https://avatars.githubusercontent.com/u/95764151?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [usememos/memos](https://github.com/usememos/memos)| 24.7k | 🔺2446 | 🔺10% | 🔺311 | 2021-12-08 |
+| 31 | <img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [langchain-ai/langchain](https://github.com/langchain-ai/langchain)| 76.6k | 🔺2434 | 🔺3% | 🔺343 | 2022-10-17 |
+| 32 | <img src="https://avatars.githubusercontent.com/u/26993056?u=12c6a8ef18768abc773c64a56a56c0fd67241ed2&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [krahets/hello-algo](https://github.com/krahets/hello-algo)| 62.3k | 🔺2281 | 🔺3% | 🔺280 | 2022-11-04 |
+| 33 | <img src="https://avatars.githubusercontent.com/u/72699292?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)| 21.1k | 🔺2256 | 🔺11% | 🔺195 | 2021-10-21 |
+| 34 | <img src="https://avatars.githubusercontent.com/u/63927363?u=9a5a30771011c3cfdde19cd51d18d85e7ed6d53f&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)| 40.5k | 🔺2191 | 🔺5% | 🔺309 | 2023-07-14 |
+| 35 | <img src="https://avatars.githubusercontent.com/u/9892522?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)| 383.6k | 🔺2156 | 🔺0% | 🔺431 | 2014-12-25 |
+| 36 | <img src="https://avatars.githubusercontent.com/u/196477?u=771bf9010ad2c32fe13ff71ceaad5563fc2824d3&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)| 99.8k | 🔺2127 | 🔺2% | 🔺262 | 2022-12-05 |
+| 37 | <img src="https://avatars.githubusercontent.com/u/153288546?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)| 60.5k | 🔺2100 | 🔺3% | 🔺354 | 2023-03-11 |
+| 38 | <img src="https://avatars.githubusercontent.com/u/19834515?u=4c7144779a6b13904fec478c4e98e676b91516ee&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)| 31k | 🔺2092 | 🔺7% | 🔺395 | 2023-08-10 |
+| 39 | <img src="https://avatars.githubusercontent.com/u/79589310?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)| 66.3k | 🔺2008 | 🔺3% | 🔺410 | 2020-10-26 |
+| 40 | <img src="https://avatars.githubusercontent.com/u/3595733?u=442ccd775c6a5c2bd262fb78c0fd458697081e30&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [linexjlin/GPTs](https://github.com/linexjlin/GPTs)| 24.9k | 🔺1958 | 🔺8% | 🔺91 | 2023-11-11 |
+| 41 | <img src="https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)| 50.8k | 🔺1820 | 🔺3% | 🔺262 | 2023-03-11 |
+| 42 | <img src="https://avatars.githubusercontent.com/u/45487711?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [n8n-io/n8n](https://github.com/n8n-io/n8n)| 38.7k | 🔺1758 | 🔺4% | 🔺333 | 2019-06-22 |
+| 43 | <img src="https://avatars.githubusercontent.com/u/45487711?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [n8n-io/n8n](https://github.com/n8n-io/n8n)| 38.7k | 🔺1758 | 🔺4% | 🔺334 | 2019-06-22 |
+| 44 | <img src="https://avatars.githubusercontent.com/u/127165244?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [langgenius/dify](https://github.com/langgenius/dify)| 15.6k | 🔺1757 | 🔺12% | 🔺173 | 2023-04-12 |
+| 45 | <img src="https://avatars.githubusercontent.com/u/54536011?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [tauri-apps/tauri](https://github.com/tauri-apps/tauri)| 74.6k | 🔺1683 | 🔺2% | 🔺338 | 2019-07-13 |
+| 46 | <img src="https://avatars.githubusercontent.com/u/14957082?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [openai/whisper](https://github.com/openai/whisper)| 56k | 🔺1672 | 🔺3% | 🔺323 | 2022-09-17 |
+| 47 | <img src="https://avatars.githubusercontent.com/u/158137808?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui)| 5.2k | 🔺1651 | 🔺45% | 🔺339 | 2023-10-07 |
+| 48 | <img src="https://avatars.githubusercontent.com/u/23818?u=20a6bb441ca25e49b4d8bdb602c171c5e1a065bf&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)| 35.7k | 🔺1648 | 🔺4% | 🔺269 | 2023-11-15 |
+| 49 | <img src="https://avatars.githubusercontent.com/u/127754094?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)| 14.2k | 🔺1639 | 🔺13% | 🔺186 | 2023-11-29 |
+| 50 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/autogen](https://github.com/microsoft/autogen)| 21.9k | 🔺1608 | 🔺7% | 🔺181 | 2023-08-18 |
 
 ---
 ## 更多Github开源项目
