@@ -4,7 +4,7 @@
 - Github : https://github.com/OpenGithubs
 - Github 2023:https://github.com/OpenGithubs/Summary2023
 
-## 统计周期：2024.03.02-2024.04.01
+## 统计周期：2024.03.08-2024.04.07
 
 - 每月开源项目飙升榜:https://github.com/OpenGithubs/github-weekly-rank
 
