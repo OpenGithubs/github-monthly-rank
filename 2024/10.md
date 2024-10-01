@@ -397,30 +397,3 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-��：27.8k
-- 🔺 上周增长数量：233⭐
-- 🔺 上月增长数量：1136⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2022-09-12
-- 📝 项目描述：ultralytics提供了一个全新的部署工具，支持将YOLOv8模型从PyTorch转换到多种平台，包括ONNX、OpenVINO、CoreML和TFLite。对于计算机视觉开发者和研究人员，这个工具能够帮助快速将YOLOv8模型部署到不同平台上，提升模型的应用性能。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230804/pic_org_53201561-ed03-4161-aee1-05ddb6bf3f76.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30. 可视化UI定制LLM https://github.com/FlowiseAI/Flowise</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：29.2k
-- 🔺 上周增长数量：236⭐
-- 🔺 上月增长数量：1131⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2023-03-31
-- 📝 项目描述：一个使用LangchainJS拖放UI构建定制化低代码机器学习（LLM）流程的工具。它简化了机器学习流程的开发和部署，让用户能够通过拖放操作设计自己的机器学习工作流程，提高开发效率。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230522/pic_org_a207e049-e063-403c-abcb-bd6863661373.png)
-
-
-
----
-
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
