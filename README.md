@@ -1,4 +1,4 @@
-## 2024.10.31 本月最佳开源项目🔝:awesome-remote-job
+## 2024.11.25 本月最佳开源项目🔝:ollama-webui
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -11,375 +11,379 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2024.10.31月榜最佳项目前5名
+> 🏆2024.11.25月榜最佳项目前5名
 
-- **榜单增长第1名 : lukasz-madon/awesome-remote-job  **
-    - 开源地址：https://github.com/lukasz-madon/awesome-remote-job
-    - 📅 开源时间：2015-01-02
-    - ⭐ 总星标数量：33935⭐
-    - 🔺 月Star增长量：4665⭐
-    - 📝 项目描述: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- **榜单增长第2名 : ollama-webui/ollama-webui  Ollama交互的Web 客户端**
+- **榜单增长第1名 : ollama-webui/ollama-webui  Ollama交互的Web 客户端**
     - 开源地址：https://github.com/ollama-webui/ollama-webui
     - 📅 开源时间：2023-10-07
-    - ⭐ 总星标数量：44832⭐
-    - 🔺 月Star增长量：3712⭐
+    - ⭐ 总星标数量：48370⭐
+    - 🔺 月Star增长量：4075⭐
     - 📝 项目描述: ChatGPT-Style Web UI Client for Ollama 🦙
         ![](http://photocdn.tv.sohu.com/img/q_mini/20240530/pic_org_02fdf3a9-d129-429f-b0f1-43de7f47238f.jpg)
-- **榜单增长第3名 : ToolJet/ToolJet  低代码平台构建业务应用程序**
-    - 开源地址：https://github.com/ToolJet/ToolJet
-    - 📅 开源时间：2021-03-30
-    - ⭐ 总星标数量：32026⭐
-    - 🔺 月Star增长量：3032⭐
-    - 📝 项目描述: 一个用于构建业务应用程序的低代码平台。它允许连接数据库、云存储、GraphQL、API端点、Airtable、谷歌表、OpenAI等，并使用拖放应用程序构建器构建应用程序。ToolJet的主要目标是简化应用程序开发，提高开发效率，同时提供了丰富的集成选项。
-        ![](http://photocdn.tv.sohu.com/img/q_mini/20231030/pic_org_190a02b3-afd7-4cb4-915d-e08f8dff727c.png)
-- **榜单增长第4名 : Avaiga/taipy  **
-    - 开源地址：https://github.com/Avaiga/taipy
-    - 📅 开源时间：2022-02-18
-    - ⭐ 总星标数量：15142⭐
-    - 🔺 月Star增长量：2979⭐
-    - 📝 项目描述: 快速打造数据驱动的 Web 应用。这是一个基于 Python 和 Flask 的项目，结合了 React 等前端技术，为开发者提供了一个简洁、高效的开发框架。它能够简化数据处理、API 开发和用户界面构建的开发过程。不论是数据科学家、机器学习工程师还是 Web 开发者，都能够利用 Taipy 快速完成从原型到 Web 应用的全过程。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
-        ![](https://photocdn.tv.sohu.com/img/github/460914281.gif)
-- **榜单增长第5名 : immich-app/immich  照片和视频自动备份**
-    - 开源地址：https://github.com/immich-app/immich
-    - 📅 开源时间：2022-02-03
-    - ⭐ 总星标数量：49927⭐
-    - 🔺 月Star增长量：2866⭐
-    - 📝 项目描述: 一个自托管的照片和视频备份解决方案，可以直接从您的手机上传。它提供了一个安全、便捷的方式来备份您的个人照片和视频，并确保您的数据得到保护和隐私的维护。您可以轻松地将照片和视频上传到自己的服务器，并随时在需要时进行访问和恢复。
-        ![](https://photocdn.tv.sohu.com/img/github/455229168.png)
+- **榜单增长第2名 : payloadcms/payload  无头CMS系统**
+    - 开源地址：https://github.com/payloadcms/payload
+    - 📅 开源时间：2021-01-06
+    - ⭐ 总星标数量：28161⭐
+    - 🔺 月Star增长量：3413⭐
+    - 📝 项目描述: 一个完全由TypeScript编写的“无头”CMS系统，使用Node.js、React和MongoDB构建。它提供了完整的内容管理功能，但与传统CMS系统不同，Payload没有前台部分和模板引擎。它通过接口为前端提供数据，实现了前后端分离。这使得后端程序员可以更加专注于接口开发，提高了开发效率。
+        ![](https://photocdn.tv.sohu.com/img/github/327089870.png)
+- **榜单增长第3名 : khoj-ai/khoj   AI 助手**
+    - 开源地址：https://github.com/khoj-ai/khoj
+    - 📅 开源时间：2021-08-16
+    - ⭐ 总星标数量：16134⭐
+    - 🔺 月Star增长量：3309⭐
+    - 📝 项目描述: Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or use our web app. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+        ![](http://photocdn.tv.sohu.com/img/q_mini/20240530/pic_org_2cc0e9ee-0fd2-47ec-9bcc-2d70b5795a65.jpg)
+- **榜单增长第4名 : bluesky-social/social-app  **
+    - 开源地址：https://github.com/bluesky-social/social-app
+    - 📅 开源时间：2022-06-08
+    - ⭐ 总星标数量：12586⭐
+    - 🔺 月Star增长量：3239⭐
+    - 📝 项目描述: The Bluesky Social application for Web, iOS, and Android
+- **榜单增长第5名 : open-mmlab/Amphion  **
+    - 开源地址：https://github.com/open-mmlab/Amphion
+    - 📅 开源时间：2023-11-15
+    - ⭐ 总星标数量：7739⭐
+    - 🔺 月Star增长量：2876⭐
+    - 📝 项目描述: Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.10.02-2024.10.31 月榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.10.27-2024.11.25 月榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 | 排名        |  项目名          | Star⭐         | 上月增长量    | 上月增长率  |
 |------------|---------------|---------------- |-------------|-------------|
-| 1 |  [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)| 33.9k | 🔺4665 | 🔺15%  |
-| 2 |  [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui)| 44.8k | 🔺3712 | 🔺9%  |
-| 3 |  [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)| 32k | 🔺3032 | 🔺10%  |
-| 4 |  [Avaiga/taipy](https://github.com/Avaiga/taipy)| 15.1k | 🔺2979 | 🔺24%  |
-| 5 |  [immich-app/immich](https://github.com/immich-app/immich)| 49.9k | 🔺2866 | 🔺6%  |
-| 6 |  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)| 21.7k | 🔺2780 | 🔺14%  |
-| 7 |  [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)| 31.8k | 🔺2479 | 🔺8%  |
-| 8 |  [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)| 6.7k | 🔺2232 | 🔺49%  |
-| 9 |  [localsend/localsend](https://github.com/localsend/localsend)| 49.5k | 🔺2201 | 🔺4%  |
-| 10 |  [formbricks/formbricks](https://github.com/formbricks/formbricks)| 8.7k | 🔺2015 | 🔺30%  |
-| 11 |  [typst/typst](https://github.com/typst/typst)| 34.7k | 🔺1644 | 🔺4%  |
-| 12 |  [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)| 47.9k | 🔺1592 | 🔺3%  |
-| 13 |  [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)| 6k | 🔺1539 | 🔺34%  |
-| 14 |  [n8n-io/n8n](https://github.com/n8n-io/n8n)| 48k | 🔺1509 | 🔺3%  |
-| 15 |  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)| 25.4k | 🔺1470 | 🔺6%  |
-| 16 |  [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)| 21.3k | 🔺1366 | 🔺6%  |
-| 17 |  [coollabsio/coolify](https://github.com/coollabsio/coolify)| 33.5k | 🔺1254 | 🔺3%  |
-| 18 |  [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc)| 12.2k | 🔺1245 | 🔺11%  |
-| 19 |  [payloadcms/payload](https://github.com/payloadcms/payload)| 24.8k | 🔺1230 | 🔺5%  |
-| 20 |  [nocodb/nocodb](https://github.com/nocodb/nocodb)| 49.4k | 🔺1211 | 🔺2%  |
-| 21 |  [bluesky-social/social-app](https://github.com/bluesky-social/social-app)| 9.5k | 🔺1208 | 🔺14%  |
-| 22 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)| 38.5k | 🔺1190 | 🔺3%  |
-| 23 |  [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)| 8.2k | 🔺1175 | 🔺16%  |
-| 24 |  [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)| 20.7k | 🔺1120 | 🔺5%  |
-| 25 |  [appwrite/appwrite](https://github.com/appwrite/appwrite)| 45.1k | 🔺1092 | 🔺2%  |
-| 26 |  [gradio-app/gradio](https://github.com/gradio-app/gradio)| 33.6k | 🔺1092 | 🔺3%  |
-| 27 |  [cocos/cocos-engine](https://github.com/cocos/cocos-engine)| 8.2k | 🔺1041 | 🔺14%  |
-| 28 |  [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)| 17.3k | 🔺998 | 🔺6%  |
-| 29 |  [honojs/hono](https://github.com/honojs/hono)| 20k | 🔺995 | 🔺5%  |
-| 30 |  [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)| 22k | 🔺986 | 🔺4%  |
+| 1 |  [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui)| 48.4k | 🔺4075 | 🔺9%  |
+| 2 |  [payloadcms/payload](https://github.com/payloadcms/payload)| 28.2k | 🔺3413 | 🔺13%  |
+| 3 |  [khoj-ai/khoj](https://github.com/khoj-ai/khoj)| 16.1k | 🔺3309 | 🔺25%  |
+| 4 |  [bluesky-social/social-app](https://github.com/bluesky-social/social-app)| 12.6k | 🔺3239 | 🔺34%  |
+| 5 |  [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)| 7.7k | 🔺2876 | 🔺59%  |
+| 6 |  [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)| 31.2k | 🔺2669 | 🔺9%  |
+| 7 |  [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)| 33.7k | 🔺2305 | 🔺7%  |
+| 8 |  [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)| 22.2k | 🔺2193 | 🔺10%  |
+| 9 |  [mingrammer/diagrams](https://github.com/mingrammer/diagrams)| 39.7k | 🔺2125 | 🔺5%  |
+| 10 |  [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)| 33.1k | 🔺1966 | 🔺6%  |
+| 11 |  [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB)| 17.1k | 🔺1853 | 🔺12%  |
+| 12 |  [n8n-io/n8n](https://github.com/n8n-io/n8n)| 49.5k | 🔺1798 | 🔺3%  |
+| 13 |  [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)| 23.2k | 🔺1723 | 🔺8%  |
+| 14 |  [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)| 18.1k | 🔺1707 | 🔺10%  |
+| 15 |  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)| 18.4k | 🔺1703 | 🔺10%  |
+| 16 |  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)| 23.1k | 🔺1634 | 🔺7%  |
+| 17 |  [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)| 33k | 🔺1525 | 🔺4%  |
+| 18 |  [gkd-kit/gkd](https://github.com/gkd-kit/gkd)| 22.5k | 🔺1525 | 🔺7%  |
+| 19 |  [dandavison/delta](https://github.com/dandavison/delta)| 24.6k | 🔺1495 | 🔺6%  |
+| 20 |  [coollabsio/coolify](https://github.com/coollabsio/coolify)| 34.7k | 🔺1396 | 🔺4%  |
+| 21 |  [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)| 34.9k | 🔺1254 | 🔺3%  |
+| 22 |  [usebruno/bruno](https://github.com/usebruno/bruno)| 27.7k | 🔺1197 | 🔺4%  |
+| 23 |  [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)| 14k | 🔺1122 | 🔺8%  |
+| 24 |  [marimo-team/marimo](https://github.com/marimo-team/marimo)| 8k | 🔺1115 | 🔺16%  |
+| 25 |  [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)| 21.6k | 🔺1095 | 🔺5%  |
+| 26 |  [docker/awesome-compose](https://github.com/docker/awesome-compose)| 35.6k | 🔺1068 | 🔺3%  |
+| 27 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo)| 9.3k | 🔺1051 | 🔺12%  |
+| 28 |  [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)| 35.4k | 🔺1037 | 🔺3%  |
+| 29 |  [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)| 41k | 🔺1009 | 🔺2%  |
+| 30 |  [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)| 39.3k | 🔺982 | 🔺2%  |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-monthly-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.10.02-2024.10.31 月榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.10.27-2024.11.25 月榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/lukasz-madon/awesome-remote-job</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. Ollama交互的Web 客户端 https://github.com/ollama-webui/ollama-webui</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：33.9k
-- 🔺 上周增长数量：388⭐
-- 🔺 上月增长数量：4665⭐
-- 🔺 上月增长率：15%
-- 📅 开源时间：2015-01-02
-- 📝 项目描述：A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Ollama交互的Web 客户端 https://github.com/ollama-webui/ollama-webui</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：44.8k
-- 🔺 上周增长数量：731⭐
-- 🔺 上月增长数量：3712⭐
+- ⭐ 总星标数量：48.4k
+- 🔺 上周增长数量：891⭐
+- 🔺 上月增长数量：4075⭐
 - 🔺 上月增长率：9%
 - 📅 开源时间：2023-10-07
 - 📝 项目描述：ChatGPT-Style Web UI Client for Ollama 🦙
     ![](http://photocdn.tv.sohu.com/img/q_mini/20240530/pic_org_02fdf3a9-d129-429f-b0f1-43de7f47238f.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 低代码平台构建业务应用程序 https://github.com/ToolJet/ToolJet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 无头CMS系统 https://github.com/payloadcms/payload</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：32k
-- 🔺 上周增长数量：1194⭐
-- 🔺 上月增长数量：3032⭐
+- ⭐ 总星标数量：28.2k
+- 🔺 上周增长数量：2267⭐
+- 🔺 上月增长数量：3413⭐
+- 🔺 上月增长率：13%
+- 📅 开源时间：2021-01-06
+- 📝 项目描述：一个完全由TypeScript编写的“无头”CMS系统，使用Node.js、React和MongoDB构建。它提供了完整的内容管理功能，但与传统CMS系统不同，Payload没有前台部分和模板引擎。它通过接口为前端提供数据，实现了前后端分离。这使得后端程序员可以更加专注于接口开发，提高了开发效率。
+    ![](https://photocdn.tv.sohu.com/img/github/327089870.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  AI 助手 https://github.com/khoj-ai/khoj</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：16.1k
+- 🔺 上周增长数量：626⭐
+- 🔺 上月增长数量：3309⭐
+- 🔺 上月增长率：25%
+- 📅 开源时间：2021-08-16
+- 📝 项目描述：Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or use our web app. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20240530/pic_org_2cc0e9ee-0fd2-47ec-9bcc-2d70b5795a65.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/bluesky-social/social-app</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：12.6k
+- 🔺 上周增长数量：1146⭐
+- 🔺 上月增长数量：3239⭐
+- 🔺 上月增长率：34%
+- 📅 开源时间：2022-06-08
+- 📝 项目描述：The Bluesky Social application for Web, iOS, and Android
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/open-mmlab/Amphion</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：7.7k
+- 🔺 上周增长数量：76⭐
+- 🔺 上月增长数量：2876⭐
+- 🔺 上月增长率：59%
+- 📅 开源时间：2023-11-15
+- 📝 项目描述：Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 开源加密交易机器人 https://github.com/freqtrade/freqtrade</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：31.2k
+- 🔺 上周增长数量：944⭐
+- 🔺 上月增长数量：2669⭐
+- 🔺 上月增长率：9%
+- 📅 开源时间：2017-05-18
+- 📝 项目描述：Freqtrade是一个用Python编写的免费开源加密交易机器人。它被设计为支持所有主要的交换，并通过电报或web控制。它包含回溯测试、绘图和资金管理工具，以及通过机器学习进行的策略优化。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230612/pic_org_f69a5724-2032-4278-b7e1-14d1bb7565cf.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 优雅的JSON数据可视化工具 https://github.com/AykutSarac/jsoncrack.com</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：33.7k
+- 🔺 上周增长数量：157⭐
+- 🔺 上月增长数量：2305⭐
+- 🔺 上月增长率：7%
+- 📅 开源时间：2022-01-30
+- 📝 项目描述：优雅的 JSON 数据可视化工具。该项目不是简单的展示 JSON 数据，而是将其转化为类似脑图的形式，支持放大/缩小、展开/收缩、搜索节点、导出图片等操作，还可以快速部署成服务。
+    ![](https://photocdn.tv.sohu.com/img/github/453717720.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/paperless-ngx/paperless-ngx</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：22.2k
+- 🔺 上周增长数量：184⭐
+- 🔺 上月增长数量：2193⭐
 - 🔺 上月增长率：10%
+- 📅 开源时间：2022-02-13
+- 📝 项目描述：A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. Python系统架构图解工具 https://github.com/mingrammer/diagrams</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：39.7k
+- 🔺 上周增长数量：196⭐
+- 🔺 上月增长数量：2125⭐
+- 🔺 上月增长率：5%
+- 📅 开源时间：2020-02-02
+- 📝 项目描述：用 Python 代码图解系统架构。程序员在做技术方案的时候，系统架构图是必不可少的。该项目将绘制架构图时所需的图标，封装成了对应的类极易调用，文档还提供了丰富的示例，让你分分钟就能上手，轻松用 Python 快速绘制出一份精美且清晰的架构图，这样不仅能省去拖拽调整连线的步骤，而且代码还可以复用，以便应对不断迭代升级的架构。
+    ![](https://photocdn.tv.sohu.com/img/github/237791077.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 低代码平台构建业务应用程序 https://github.com/ToolJet/ToolJet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：33.1k
+- 🔺 上周增长数量：166⭐
+- 🔺 上月增长数量：1966⭐
+- 🔺 上月增长率：6%
 - 📅 开源时间：2021-03-30
 - 📝 项目描述：一个用于构建业务应用程序的低代码平台。它允许连接数据库、云存储、GraphQL、API端点、Airtable、谷歌表、OpenAI等，并使用拖放应用程序构建器构建应用程序。ToolJet的主要目标是简化应用程序开发，提高开发效率，同时提供了丰富的集成选项。
     ![](http://photocdn.tv.sohu.com/img/q_mini/20231030/pic_org_190a02b3-afd7-4cb4-915d-e08f8dff727c.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/Avaiga/taipy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11. 智能数据库客户端 https://github.com/chat2db/Chat2DB</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：15.1k
-- 🔺 上周增长数量：360⭐
-- 🔺 上月增长数量：2979⭐
-- 🔺 上月增长率：24%
-- 📅 开源时间：2022-02-18
-- 📝 项目描述：快速打造数据驱动的 Web 应用。这是一个基于 Python 和 Flask 的项目，结合了 React 等前端技术，为开发者提供了一个简洁、高效的开发框架。它能够简化数据处理、API 开发和用户界面构建的开发过程。不论是数据科学家、机器学习工程师还是 Web 开发者，都能够利用 Taipy 快速完成从原型到 Web 应用的全过程。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
-    ![](https://photocdn.tv.sohu.com/img/github/460914281.gif)
+- ⭐ 总星标数量：17.1k
+- 🔺 上周增长数量：131⭐
+- 🔺 上月增长数量：1853⭐
+- 🔺 上月增长率：12%
+- 📅 开源时间：2023-06-20
+- 📝 项目描述：🔥 🔥 🔥 一个智能和通用的SQL客户端和数据库报告工具，集成了ChatGPT功能。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230707/pic_org_042f0146-555e-4785-9d12-ef7a4b5492ef.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 照片和视频自动备份 https://github.com/immich-app/immich</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：49.9k
-- 🔺 上周增长数量：415⭐
-- 🔺 上月增长数量：2866⭐
-- 🔺 上月增长率：6%
-- 📅 开源时间：2022-02-03
-- 📝 项目描述：一个自托管的照片和视频备份解决方案，可以直接从您的手机上传。它提供了一个安全、便捷的方式来备份您的个人照片和视频，并确保您的数据得到保护和隐私的维护。您可以轻松地将照片和视频上传到自己的服务器，并随时在需要时进行访问和恢复。
-    ![](https://photocdn.tv.sohu.com/img/github/455229168.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. Markdown笔记应用 https://github.com/siyuan-note/siyuan</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：21.7k
-- 🔺 上周增长数量：308⭐
-- 🔺 上月增长数量：2780⭐
-- 🔺 上月增长率：14%
-- 📅 开源时间：2020-08-30
-- 📝 项目描述：一款Markdown笔记应用：思源笔记，拥有块级引用和双向链接的网状特色，支持Windows、Mac和Linux，可在浏览器上直接使用，支持移动端适配
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20240516/pic_org_b0437a07-56ce-4bd7-8e04-8e0b3a1afd7d.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. YOLOv8多平台部署工具 https://github.com/ultralytics/ultralytics</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：31.8k
-- 🔺 上周增长数量：385⭐
-- 🔺 上月增长数量：2479⭐
-- 🔺 上月增长率：8%
-- 📅 开源时间：2022-09-12
-- 📝 项目描述：ultralytics提供了一个全新的部署工具，支持将YOLOv8模型从PyTorch转换到多种平台，包括ONNX、OpenVINO、CoreML和TFLite。对于计算机视觉开发者和研究人员，这个工具能够帮助快速将YOLOv8模型部署到不同平台上，提升模型的应用性能。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230804/pic_org_53201561-ed03-4161-aee1-05ddb6bf3f76.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/open-mmlab/Amphion</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6.7k
-- 🔺 上周增长数量：2156⭐
-- 🔺 上月增长数量：2232⭐
-- 🔺 上月增长率：49%
-- 📅 开源时间：2023-11-15
-- 📝 项目描述：Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 安全跨平台本地通信 https://github.com/localsend/localsend</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12. N8n https://github.com/n8n-io/n8n</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：49.5k
-- 🔺 上周增长数量：272⭐
-- 🔺 上月增长数量：2201⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2022-12-16
-- 📝 项目描述：一个跨平台的应用程序，它使用REST API和HTTPS加密来实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend不需要互联网连接或第三方服务器。这使得LocalSend成为本地通信的快速、可靠和安全的解决方案。用户可以使用LocalSend实现设备之间的通信，而无需担心隐私和安全问题。
-    ![](https://photocdn.tv.sohu.com/img/github/578822531.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/formbricks/formbricks</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.7k
-- 🔺 上周增长数量：229⭐
-- 🔺 上月增长数量：2015⭐
-- 🔺 上月增长率：30%
-- 📅 开源时间：2022-06-06
-- 📝 项目描述：Open Source Survey Platform
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11. 标记排版系统 https://github.com/typst/typst</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：34.7k
-- 🔺 上周增长数量：136⭐
-- 🔺 上月增长数量：1644⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2019-09-25
-- 📝 项目描述：一个全新的基于标记的排版系统，具备强大的功能并且易于学习。它通过简单的标记语法，使用户能够快速创建格式丰富的文档，无论是文章、报告还是演示文稿。这个项目为创作者提供了一个更轻松的方式来排版内容，提升了文档的可视化效果。
-    ![](https://photocdn.tv.sohu.com/img/github/210702427.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12. Docker中运行macOS https://github.com/sickcodes/Docker-OSX</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：47.9k
-- 🔺 上周增长数量：144⭐
-- 🔺 上月增长数量：1592⭐
-- 🔺 上月增长率：3%
-- 📅 开源时间：2020-06-04
-- 📝 项目描述：一个让你在Docker中运行macOS操作系统的项目。通过仅需两条命令，用户可以在Docker容器中轻松启动一个macOS操作系统。这为开发者提供了一种简单而刺激的方式，让他们可以在非苹果硬件上体验macOS，从而进行测试和开发。
-    ![](https://photocdn.tv.sohu.com/img/github/269336148.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/mainmatter/100-exercises-to-learn-rust</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6k
-- 🔺 上周增长数量：102⭐
-- 🔺 上月增长数量：1539⭐
-- 🔺 上月增长率：34%
-- 📅 开源时间：2024-05-13
-- 📝 项目描述：学习 Rust 的 100 个练习。该教程秉承着边学边做的原则，内含大约 100 道练习题和答案，带你从零开始学习 Rust 编程语言。
-    ![]()
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14. N8n https://github.com/n8n-io/n8n</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：48k
-- 🔺 上周增长数量：378⭐
-- 🔺 上月增长数量：1509⭐
+- 🔺 上周增长数量：420⭐
+- 🔺 上月增长数量：1798⭐
 - 🔺 上月增长率：3%
 - 📅 开源时间：2019-06-22
 - 📝 项目描述：Workflow automation for technical professionals.
     ![](http://photocdn.tv.sohu.com/github/f3e8950a80f349ae79344b265c06dbd5f2260478-2209x1256.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/Mintplex-Labs/anything-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/521xueweihan/GitHub520</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：25.4k
-- 🔺 上周增长数量：288⭐
-- 🔺 上月增长数量：1470⭐
+- ⭐ 总星标数量：23.2k
+- 🔺 上周增长数量：432⭐
+- 🔺 上月增长数量：1723⭐
+- 🔺 上月增长率：8%
+- 📅 开源时间：2020-05-13
+- 📝 项目描述：:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+    ![]()
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/ml-tooling/best-of-ml-python</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：18.1k
+- 🔺 上周增长数量：68⭐
+- 🔺 上月增长数量：1707⭐
+- 🔺 上月增长率：10%
+- 📅 开源时间：2020-11-30
+- 📝 项目描述：🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+    ![](https://photocdn.tv.sohu.com/img/github/317029148.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/harry0703/MoneyPrinterTurbo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：18.4k
+- 🔺 上周增长数量：127⭐
+- 🔺 上月增长数量：1703⭐
+- 🔺 上月增长率：10%
+- 📅 开源时间：2024-03-11
+- 📝 项目描述：一键生成短视频的 AI 工具。该项目是基于大模型服务的 AI 视频生成工具，只需要提供一个主题或关键字，就可以自动生成高清的短视频。它拥有简单易用的 Web 界面，支持批量生成、设置视频时长和横/竖屏尺寸等功能。来自 [@jolahua](https://hellogithub.com/user/8zvgylhiA5ds49u) 的分享
+    ![](https://photocdn.tv.sohu.com/img/github/770153867.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16. Markdown笔记应用 https://github.com/siyuan-note/siyuan</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：23.1k
+- 🔺 上周增长数量：171⭐
+- 🔺 上月增长数量：1634⭐
+- 🔺 上月增长率：7%
+- 📅 开源时间：2020-08-30
+- 📝 项目描述：一款Markdown笔记应用：思源笔记，拥有块级引用和双向链接的网状特色，支持Windows、Mac和Linux，可在浏览器上直接使用，支持移动端适配
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20240516/pic_org_b0437a07-56ce-4bd7-8e04-8e0b3a1afd7d.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17. YOLOv8多平台部署工具 https://github.com/ultralytics/ultralytics</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：33k
+- 🔺 上周增长数量：294⭐
+- 🔺 上月增长数量：1525⭐
+- 🔺 上月增长率：4%
+- 📅 开源时间：2022-09-12
+- 📝 项目描述：ultralytics提供了一个全新的部署工具，支持将YOLOv8模型从PyTorch转换到多种平台，包括ONNX、OpenVINO、CoreML和TFLite。对于计算机视觉开发者和研究人员，这个工具能够帮助快速将YOLOv8模型部署到不同平台上，提升模型的应用性能。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230804/pic_org_53201561-ed03-4161-aee1-05ddb6bf3f76.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  无障碍屏幕点击工 https://github.com/gkd-kit/gkd</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：22.5k
+- 🔺 上周增长数量：193⭐
+- 🔺 上月增长数量：1525⭐
+- 🔺 上月增长率：7%
+- 📅 开源时间：2023-07-04
+- 📝 项目描述：一个基于无障碍技术、高级选择器和订阅规则的自定义屏幕点击Android应用。通过该应用，用户可以实现灵活、定制化的屏幕点击操作，提高Android设备的可访问性和用户体验。无论是为了简化操作、辅助无障碍人群，还是为了自动执行特定任务，gkd都为用户提供了便捷的解决方案。
+    ![](https://photocdn.tv.sohu.com/img/github/661957079.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/dandavison/delta</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：24.6k
+- 🔺 上周增长数量：92⭐
+- 🔺 上月增长数量：1495⭐
 - 🔺 上月增长率：6%
-- 📅 开源时间：2023-06-04
-- 📝 项目描述：A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
+- 📅 开源时间：2019-06-24
+- 📝 项目描述：提升 Git 差异可读性的命令行工具。这是一个用 Rust 写的命令行工具，能够以更清晰、美观的方式展示 Git 的 diff、blame 和 grep 命令。它支持显示行号、语法高亮和更智能的行内差异显示等功能，可无缝集成到 Git 工作流中。
+    ![](https://photocdn.tv.sohu.com/img/github/193526915.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/hyprwm/Hyprland</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20. GitHub上的项目自托管方案 https://github.com/coollabsio/coolify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：21.3k
-- 🔺 上周增长数量：128⭐
-- 🔺 上月增长数量：1366⭐
-- 🔺 上月增长率：6%
-- 📅 开源时间：2022-03-17
-- 📝 项目描述：Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    ![](https://photocdn.tv.sohu.com/img/github/470730648.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17. GitHub上的项目自托管方案 https://github.com/coollabsio/coolify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：33.5k
-- 🔺 上周增长数量：274⭐
-- 🔺 上月增长数量：1254⭐
-- 🔺 上月增长率：3%
+- ⭐ 总星标数量：34.7k
+- 🔺 上周增长数量：180⭐
+- 🔺 上月增长数量：1396⭐
+- 🔺 上月增长率：4%
 - 📅 开源时间：2021-01-26
 - 📝 项目描述：一个在GitHub上开源的项目自托管方案，可用于替代Heroku和Netlify。它支持反向代理、免费SSL证书配置、多种常用数据库配置、项目一键安装与升级等功能。coolify旨在提供一个灵活的自托管解决方案，使开发人员能够轻松部署和管理其应用程序。
     ![](http://photocdn.tv.sohu.com/img/q_mini/20231023/pic_org_00da42b3-d3e9-4742-870b-ef1b149dc579.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18. 用 Rust 编写的 JavaScript 工具集合 https://github.com/web-infra-dev/oxc</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">21.  https://github.com/lukasz-madon/awesome-remote-job</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：12.2k
-- 🔺 上周增长数量：122⭐
-- 🔺 上月增长数量：1245⭐
-- 🔺 上月增长率：11%
-- 📅 开源时间：2023-02-09
-- 📝 项目描述：⚓一个用 Rust 编写的 JavaScript 工具集合。该项目旨在提供一组 Rust 实现的 JavaScript 工具，以增强 JavaScript 生态系统的性能和功能。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20231218/pic_org_12ce77ef-bd9d-4c8f-bfee-42865f450510.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19. 无头CMS系统 https://github.com/payloadcms/payload</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：24.8k
-- 🔺 上周增长数量：135⭐
-- 🔺 上月增长数量：1230⭐
-- 🔺 上月增长率：5%
-- 📅 开源时间：2021-01-06
-- 📝 项目描述：一个完全由TypeScript编写的“无头”CMS系统，使用Node.js、React和MongoDB构建。它提供了完整的内容管理功能，但与传统CMS系统不同，Payload没有前台部分和模板引擎。它通过接口为前端提供数据，实现了前后端分离。这使得后端程序员可以更加专注于接口开发，提高了开发效率。
-    ![](https://photocdn.tv.sohu.com/img/github/327089870.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/nocodb/nocodb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：49.4k
-- 🔺 上周增长数量：191⭐
-- 🔺 上月增长数量：1211⭐
-- 🔺 上月增长率：2%
-- 📅 开源时间：2017-10-30
-- 📝 项目描述：开源的智能表格制作工具,能够快速创建自己的数据库应用。它基于 MySQL 和 MongoDB 数据库，并提供了可视化的界面，让数据库管理变得更加简单。
-    ![](https://photocdn.tv.sohu.com/img/github/108761645.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">21.  https://github.com/bluesky-social/social-app</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：9.5k
-- 🔺 上周增长数量：234⭐
-- 🔺 上月增长数量：1208⭐
-- 🔺 上月增长率：14%
-- 📅 开源时间：2022-06-08
-- 📝 项目描述：The Bluesky Social application for Web, iOS, and Android
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">22. 桌面应用程序 https://github.com/dani-garcia/vaultwarden</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：38.5k
-- 🔺 上周增长数量：204⭐
-- 🔺 上月增长数量：1190⭐
+- ⭐ 总星标数量：34.9k
+- 🔺 上周增长数量：171⭐
+- 🔺 上月增长数量：1254⭐
 - 🔺 上月增长率：3%
+- 📅 开源时间：2015-01-02
+- 📝 项目描述：A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">22. 开源API探索和测试IDE https://github.com/usebruno/bruno</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：27.7k
+- 🔺 上周增长数量：282⭐
+- 🔺 上月增长数量：1197⭐
+- 🔺 上月增长率：4%
+- 📅 开源时间：2022-09-28
+- 📝 项目描述：一个开源IDE，旨在帮助用户探索和测试API。它是一个轻量级的替代品，可用于执行API请求和测试，类似于Postman或Insomnia。bruno提供了用户友好的界面，使API测试变得简单而高效。它是开发者的有力工具，可用于检查和测试API端点。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20231013/pic_org_0ee85f73-a82b-4c08-b98f-42ffdca266c5.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">23. 开源的后读解决方案 https://github.com/omnivore-app/omnivore</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：14k
+- 🔺 上周增长数量：72⭐
+- 🔺 上月增长数量：1122⭐
+- 🔺 上月增长率：8%
+- 📅 开源时间：2022-02-11
+- 📝 项目描述：一个完整的、开源的后读解决方案，专为那些喜欢文本的人设计。它提供了丰富的文本处理和分析工具，允许用户从文本数据中提取有价值的信息。Omnivore的目标是为文本分析、自然语言处理和信息提取提供一个强大的工具集。
+    ![](https://photocdn.tv.sohu.com/img/github/458094748.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">24.  https://github.com/marimo-team/marimo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：8k
+- 🔺 上周增长数量：179⭐
+- 🔺 上月增长数量：1115⭐
+- 🔺 上月增长率：16%
+- 📅 开源时间：2023-08-15
+- 📝 项目描述：创新的响应式 Python 笔记本。该项目是专为 Python 设计的响应式笔记本(notebook)，即在与 UI 交互时自动执行并更新所依赖的代码单元格，从而保证代码和输出的一致性。它以纯 Python 文件的形式存储，便于管理和运行，支持作为脚本执行或部署为可交互的 Web 应用。
+    ![](https://photocdn.tv.sohu.com/img/github/678526156.gif)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">25.  https://github.com/joaomdmoura/crewAI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：21.6k
+- 🔺 上周增长数量：255⭐
+- 🔺 上月增长数量：1095⭐
+- 🔺 上月增长率：5%
+- 📅 开源时间：2023-10-27
+- 📝 项目描述：协调角色扮演、自主AI代理的框架。通过促进协作智能，CrewAI使座席能够无缝地协同工作，处理复杂的任务。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20240115/pic_org_81d44001-1503-4f4b-a157-2eecd44e3ad3.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">26. Compose https://github.com/docker/awesome-compose</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：35.6k
+- 🔺 上周增长数量：198⭐
+- 🔺 上月增长数量：1068⭐
+- 🔺 上月增长率：3%
+- 📅 开源时间：2020-02-13
+- 📝 项目描述：丰富且实用的 Docker Compose 示例集合。该项目中的例子可以作为参考和模板，从而快速完成 Docker Compose 的编写
+    ![](https://photocdn.tv.sohu.com/img/github/240215314.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">27.  https://github.com/THUDM/CogVideo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.3k
+- 🔺 上周增长数量：129⭐
+- 🔺 上月增长数量：1051⭐
+- 🔺 上月增长率：12%
+- 📅 开源时间：2022-05-29
+- 📝 项目描述：一个可基于文本生成视频的开源项目：CogVideo，由清华大学数据挖掘研究小组开源，面向研究者和开发者的开源视频工具，支持视频摘要、语义理解、视频检索等功能，让您对视频有更深入的理解！
+    ![](http://photocdn.tv.sohu.com/img/20230407/pic_org_bf693af0-184d-4d9d-b9a1-def280c72698.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">28. 开源的媒体服务器 https://github.com/jellyfin/jellyfin</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：35.4k
+- 🔺 上周增长数量：206⭐
+- 🔺 上月增长数量：1037⭐
+- 🔺 上月增长率：3%
+- 📅 开源时间：2018-12-09
+- 📝 项目描述：Jellyfin 是一个免费的、开源的媒体服务器，可用于管理和流式传输音频、视频和图片。
+
+    ![](https://photocdn.tv.sohu.com/img/github/161012019.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">29. 数据库管理工具 https://github.com/pocketbase/pocketbase</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：41k
+- 🔺 上周增长数量：148⭐
+- 🔺 上月增长数量：1009⭐
+- 🔺 上月增长率：2%
+- 📅 开源时间：2022-07-05
+- 📝 项目描述：一个开源后端，将 SQLite 数据库、接口服务、登录认证和管理后台等服务器端功能整合成一个可执行文件。通过用户界面，即使是不懂后端开发的用户，也可以快速构建接口服务，提供方便的数据库管理功能。
+    ![](https://photocdn.tv.sohu.com/img/github/510607652.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30. 桌面应用程序 https://github.com/dani-garcia/vaultwarden</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：39.3k
+- 🔺 上周增长数量：203⭐
+- 🔺 上月增长数量：982⭐
+- 🔺 上月增长率：2%
 - 📅 开源时间：2018-02-18
 - 📝 项目描述：用Rust编写的非官方Bitwarden兼容服务器
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230804/pic_org_ab0679f9-79c2-42c2-9c8f-c0f2eb8f5d2a.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">23.  https://github.com/NirDiamant/RAG_Techniques</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.2k
-- 🔺 上周增长数量：175⭐
-- 🔺 上月增长数量：1175⭐
-- 🔺 上月增长率：16%
-- 📅 开源时间：2024-07-14
-- 📝 项目描述：检索增强生成（RAG）教程集合。该项目提供了 20 多种先进的 RAG 技术教程，包含实现指南和示例代码，并定期更新。内容涵盖检索查询、上下文增强、融合检索（Fusion Retrieval）、分层索引、上下文压缩、知识图谱整合等多种 RAG 技术。
-    ![]()
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">24.  https://github.com/paperless-ngx/paperless-ngx</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：20.7k
-- 🔺 上周增长数量：673⭐
-- 🔺 上月增长数量：1120⭐
-- 🔺 上月增长率：5%
-- 📅 开源时间：2022-02-13
-- 📝 项目描述：A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">25. 基于Docker的开发者平台 https://github.com/appwrite/appwrite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：45.1k
-- 🔺 上周增长数量：207⭐
-- 🔺 上月增长数量：1092⭐
-- 🔺 上月增长率：2%
-- 📅 开源时间：2019-04-09
-- 📝 项目描述：一个端到端的开发者平台，基于Docker构建。它提供了容器化的微服务库，可应用于网页端、移动端和后端。Appwrite通过可视化界面简化了API编写过程，为开发者创造了高效的开发环境，同时保证了软件的安全性。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20231007/pic_org_7a910c32-d88a-41df-841a-f13cb395c999.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">26.  https://github.com/gradio-app/gradio</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：33.6k
-- 🔺 上周增长数量：121⭐
-- 🔺 上月增长数量：1092⭐
-- 🔺 上月增长率：3%
-- 📅 开源时间：2018-12-19
-- 📝 项目描述：用 Python 为模型创建演示界面。这是一个用于构建机器学习和数据科学演示的 Python 库，它包含多种输入和展示的组件，使用起来极其方便，只用几行代码就可以创建出演示机器学习模型的 Web 界面。
-    ![](https://photocdn.tv.sohu.com/img/github/162405963.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">27. 免费跨平台游戏引擎 https://github.com/cocos/cocos-engine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.2k
-- 🔺 上周增长数量：193⭐
-- 🔺 上月增长数量：1041⭐
-- 🔺 上月增长率：14%
-- 📅 开源时间：2015-12-05
-- 📝 项目描述：Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20240819/pic_org_5e93567e-a761-4749-b57d-5d43291c4374.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">28.  https://github.com/joonspk-research/generative_agents</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：17.3k
-- 🔺 上周增长数量：76⭐
-- 🔺 上月增长数量：998⭐
-- 🔺 上月增长率：6%
-- 📅 开源时间：2023-07-23
-- 📝 项目描述：Generative Agents: Interactive Simulacra of Human Behavior
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">29.  https://github.com/honojs/hono</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：20k
-- 🔺 上周增长数量：175⭐
-- 🔺 上月增长数量：995⭐
-- 🔺 上月增长率：5%
-- 📅 开源时间：2021-12-15
-- 📝 项目描述：Ultrafast web framework for the Edges
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30.  https://github.com/ArchiveBox/ArchiveBox</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：22k
-- 🔺 上周增长数量：116⭐
-- 🔺 上月增长数量：986⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2017-05-05
-- 📝 项目描述：基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等
-    ![](https://photocdn.tv.sohu.com/img/github/90356372.png)
 
 
 
@@ -390,12 +394,7 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-r-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-x;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+order-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
