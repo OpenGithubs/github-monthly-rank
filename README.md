@@ -19,6 +19,8 @@
     - ⭐ 总星标数量：11262⭐
     - 🔺 月Star增长量：3111⭐
     - 📝 项目描述: Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+    ![image](https://github.com/user-attachments/assets/8d994d07-385c-4268-b4fd-9b58aadeabee)
+
 - **榜单增长第2名 : browser-use/browser-use  **
     - 开源地址：https://github.com/browser-use/browser-use
     - 📅 开源时间：2024-11-01
