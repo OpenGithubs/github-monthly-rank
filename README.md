@@ -382,29 +382,3 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-��星标数量：23.6k
-- 🔺 上周增长数量：231⭐
-- 🔺 上月增长数量：1946⭐
-- 🔺 上月增长率：8%
-- 📅 开源时间：2023-10-31
-- 📝 项目描述：一个用于将 Markdown 转换为 PDF、EPUB 和 MOBI 的工具，支持一系列 PDF 文档，特别优化了书籍和科学论文。相比于 facebookresearch/nougat，它具有更快的速度（提升10倍）、更高的准确性，并降低了产生幻觉的风险。它支持删除页眉、页脚和其他工件，将大多数方程转换为 LaTeX，格式化代码块和表格。适用于 GPU、CPU 或 MPS。
-    ![](https://photocdn.tv.sohu.com/img/github/712111618.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30. 智能机器人 https://github.com/huggingface/lerobot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：11.4k
-- 🔺 上周增长数量：447⭐
-- 🔺 上月增长数量：1920⭐
-- 🔺 上月增长率：20%
-- 📅 开源时间：2024-01-26
-- 📝 项目描述：一个有潜力的智能机器人项目。huggingface/lerobot 可能为用户提供智能对话和任务处理能力，具有广泛的应用前景。无论是在客服、教育还是其他领域，这个项目都有望发挥重要作用。
-
-
-
----
-
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
