@@ -17,7 +17,7 @@
     - 开源地址：https://github.com/google-gemini/gemini-cli
     - 📅 开源时间：2025-04-18
     - ⭐ 总星标数量：42653⭐
-    - 🔺 月Star增长量：10476⭐
+    - 🔺 月Star增长量：42653⭐
     - 📝 项目描述:  Google 开发的一个开源命令行智能代理，它将先进的 Gemini AI 直接带入你的终端环境。通过自然语言交互，Gemini CLI 可以理解并编辑代码、执行命令、自动处理复杂任务——就像在终端里直接“聊天编程”一样。
 
         ![](http://photocdn.tv.sohu.com/img/q_mini/20250627/pic_org_bc7a3382-9159-420c-9655-bbd9b073148f.jpg)
@@ -57,7 +57,7 @@
 
 | 排名        |  项目名          | Star⭐         | 上月增长量   |
 |------------|---------------|---------------- |-------------|
-| 1 |  [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)| 42.7k | 🔺10476 |
+| 1 |  [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)| 42.7k | 🔺42653 |
 | 2 |  [anthropics/courses](https://github.com/anthropics/courses)| 16.1k | 🔺3817 |
 | 3 |  [frdel/agent-zero](https://github.com/frdel/agent-zero)| 10.4k | 🔺3581 |
 | 4 |  [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)| 9.5k | 🔺3457 |
@@ -95,8 +95,8 @@
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 开源命令行智能代理 https://github.com/google-gemini/gemini-cli</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：42.7k
-- 🔺 上周增长数量：10476⭐
-- 🔺 上月增长数量：10476⭐
+- 🔺 上周增长数量：42653⭐
+- 🔺 上月增长数量：42653⭐
 - 🔺 上月增长率：0%
 - 📅 开源时间：2025-04-18
 - 📝 项目描述： Google 开发的一个开源命令行智能代理，它将先进的 Gemini AI 直接带入你的终端环境。通过自然语言交互，Gemini CLI 可以理解并编辑代码、执行命令、自动处理复杂任务——就像在终端里直接“聊天编程”一样。
