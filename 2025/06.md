@@ -1,385 +1,399 @@
-## 2025.05.31 本月最佳开源项目🔝:void
+## 2025.06.29 本月最佳开源项目🔝:gemini-cli
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 - OpenGithub社区：https://open.itc.cn/
-- 微信公众号社区: >>[进入](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTQ5Mzk0NA==&action=getalbum&album_id=2943875821830864900&scene=173&subscene=227&sessionid=1724741336&enterid=1724741344&from_msgid=2247486556&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
-- 头条社区: >>[进入](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
-- 知乎社区: >>[进入](https://www.zhihu.com/people/OpenGithub)
+- 微信公众号: >>[搜索开源推荐官](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
+- 头条社区: >>[搜索开源推荐官](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
+- 知乎社区: >>[搜索Open Github社区](https://www.zhihu.com/people/OpenGithub)
 - 日飙升榜: https://github.com/OpenGithubs/github-daily-rank
 - 周飙升榜: https://github.com/OpenGithubs/github-weekly-rank
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.05.31月榜最佳项目前5名
+> 🏆2025.06.29月榜最佳项目前5名
 
-- **榜单增长第1名 : voideditor/void  AI编码工具**
-    - 开源地址：https://github.com/voideditor/void
-    - 📅 开源时间：2024-09-11
-    - ⭐ 总星标数量：22491⭐
-    - 🔺 月Star增长量：10367⭐
-    - 📝 项目描述: Void is the open-source Cursor alternative. This repo contains the full sourcecode for Void. We have a waitlist for downloading the official release, but you can build and develop Void right now.
-        ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_5fceaa0a-4517-44ad-9e5c-692b5bec404d.png)
-- **榜单增长第2名 : mindsdb/mindsdb  用 SQL 开启机器学习的数据库**
-    - 开源地址：https://github.com/mindsdb/mindsdb
-    - 📅 开源时间：2018-08-03
-    - ⭐ 总星标数量：30993⭐
-    - 🔺 月Star增长量：3139⭐
-    - 📝 项目描述: 用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
-        ![](https://photocdn.tv.sohu.com/img/github/143328315.png)
-- **榜单增长第3名 : jj-vcs/jj  **
-    - 开源地址：https://github.com/jj-vcs/jj
-    - 📅 开源时间：2020-12-18
-    - ⭐ 总星标数量：15554⭐
-    - 🔺 月Star增长量：3044⭐
-    - 📝 项目描述: A Git-compatible VCS that is both simple and powerful
-- **榜单增长第4名 : QwenLM/Qwen2.5  智能语言**
-    - 开源地址：https://github.com/QwenLM/Qwen2.5
-    - 📅 开源时间：2024-02-05
-    - ⭐ 总星标数量：21763⭐
-    - 🔺 月Star增长量：2830⭐
-    - 📝 项目描述: 一个强大的智能语言项目。QwenLM/Qwen2.5 可能为用户提供高质量的语言交互服务，具有广泛的应用前景。无论是智能客服、智能写作还是其他领域，这个项目都有望发挥重要作用。
-- **榜单增长第5名 : maboloshi/github-chinese  **
-    - 开源地址：https://github.com/maboloshi/github-chinese
-    - 📅 开源时间：2021-09-27
-    - ⭐ 总星标数量：11879⭐
-    - 🔺 月Star增长量：2702⭐
-    - 📝 项目描述: GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
-        ![](https://photocdn.tv.sohu.com/img/github/410808715.png)
+- **榜单增长第1名 : google-gemini/gemini-cli  开源命令行智能代理**
+    - 开源地址：https://github.com/google-gemini/gemini-cli
+    - 📅 开源时间：2025-04-18
+    - ⭐ 总星标数量：42653⭐
+    - 🔺 月Star增长量：10476⭐
+    - 📝 项目描述:  Google 开发的一个开源命令行智能代理，它将先进的 Gemini AI 直接带入你的终端环境。通过自然语言交互，Gemini CLI 可以理解并编辑代码、执行命令、自动处理复杂任务——就像在终端里直接“聊天编程”一样。
+
+        ![](http://photocdn.tv.sohu.com/img/q_mini/20250627/pic_org_bc7a3382-9159-420c-9655-bbd9b073148f.jpg)
+- **榜单增长第2名 : anthropics/courses  学习课程**
+    - 开源地址：https://github.com/anthropics/courses
+    - 📅 开源时间：2024-05-30
+    - ⭐ 总星标数量：16122⭐
+    - 🔺 月Star增长量：3817⭐
+    - 📝 项目描述: 一个有意义的学习课程项目。anthropics/courses 可能为用户提供关于特定领域的学习课程和资源，帮助他们提升知识和技能。对于想要学习新领域知识的人来说，这个项目是一个很好的选择。
+- **榜单增长第3名 : frdel/agent-zero  智能代理**
+    - 开源地址：https://github.com/frdel/agent-zero
+    - 📅 开源时间：2024-06-10
+    - ⭐ 总星标数量：10412⭐
+    - 🔺 月Star增长量：3581⭐
+    - 📝 项目描述: Agent Zero是一个有机的智能体框架，它会随着用户的使用而成长和学习。它具有高度的透明度、可读性、可理解性、可定制性和交互性，利用计算机作为工具来完成用户的任务。
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.02-2025.05.31 月榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+        ![](http://photocdn.tv.sohu.com/img/q_mini/20250606/pic_org_1d11ade5-ddae-4b63-a8c4-b8ed829ba101.jpg)
+- **榜单增长第4名 : nautechsystems/nautilus_trader  量化交易的高性能算法交易框架**
+    - 开源地址：https://github.com/nautechsystems/nautilus_trader
+    - 📅 开源时间：2018-06-25
+    - ⭐ 总星标数量：9478⭐
+    - 🔺 月Star增长量：3457⭐
+    - 📝 项目描述: A high-performance algorithmic trading platform and event-driven backtester
+        ![](http://photocdn.tv.sohu.com/img/q_mini/20250623/pic_org_fc54a985-952e-4f31-8a38-c551e27c52cf.jpg)
+- **榜单增长第5名 : microsoft/fluentui-system-icons  **
+    - 开源地址：https://github.com/microsoft/fluentui-system-icons
+    - 📅 开源时间：2020-05-13
+    - ⭐ 总星标数量：9489⭐
+    - 🔺 月Star增长量：3053⭐
+    - 📝 项目描述: 微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一。
+        ![](https://photocdn.tv.sohu.com/img/github/263452252.png)
+
+
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.31-2025.06.29 月榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 | 排名        |  项目名          | Star⭐         | 上月增长量   |
 |------------|---------------|---------------- |-------------|
-| 1 |  [voideditor/void](https://github.com/voideditor/void)| 22.5k | 🔺10367 |
-| 2 |  [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)| 31k | 🔺3139 |
-| 3 |  [jj-vcs/jj](https://github.com/jj-vcs/jj)| 15.6k | 🔺3044 |
-| 4 |  [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5)| 21.8k | 🔺2830 |
-| 5 |  [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)| 11.9k | 🔺2702 |
-| 6 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 30.8k | 🔺2269 |
-| 7 |  [microsoft/BitNet](https://github.com/microsoft/BitNet)| 19.9k | 🔺2115 |
-| 8 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)| 24.3k | 🔺2059 |
-| 9 |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)| 35.1k | 🔺2042 |
-| 10 |  [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)| 39k | 🔺1895 |
-| 11 |  [better-auth/better-auth](https://github.com/better-auth/better-auth)| 14.3k | 🔺1880 |
-| 12 |  [mendableai/firecrawl](https://github.com/mendableai/firecrawl)| 39.1k | 🔺1864 |
-| 13 |  [pathwaycom/pathway](https://github.com/pathwaycom/pathway)| 26.3k | 🔺1754 |
-| 14 |  [Predidit/Kazumi](https://github.com/Predidit/Kazumi)| 10.9k | 🔺1742 |
-| 15 |  [tw93/Pake](https://github.com/tw93/Pake)| 39k | 🔺1701 |
-| 16 |  [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)| 16.3k | 🔺1497 |
-| 17 |  [neondatabase/neon](https://github.com/neondatabase/neon)| 18.3k | 🔺1406 |
-| 18 |  [astral-sh/ruff](https://github.com/astral-sh/ruff)| 39.6k | 🔺1398 |
-| 19 |  [anthropics/courses](https://github.com/anthropics/courses)| 12.6k | 🔺1368 |
-| 20 |  [juanfont/headscale](https://github.com/juanfont/headscale)| 28.8k | 🔺1323 |
-| 21 |  [lib-pku/libpku](https://github.com/lib-pku/libpku)| 31.9k | 🔺1269 |
-| 22 |  [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump)| 8.4k | 🔺1239 |
-| 23 |  [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)| 30.3k | 🔺1220 |
-| 24 |  [yamadashy/repomix](https://github.com/yamadashy/repomix)| 16.5k | 🔺1197 |
-| 25 |  [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)| 3.7k | 🔺1170 |
-| 26 |  [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)| 40.2k | 🔺1111 |
-| 27 |  [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)| 25.9k | 🔺1099 |
-| 28 |  [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)| 16.9k | 🔺1084 |
-| 29 |  [aquasecurity/trivy](https://github.com/aquasecurity/trivy)| 27k | 🔺998 |
-| 30 |  [koreader/koreader](https://github.com/koreader/koreader)| 21.8k | 🔺993 |
+| 1 |  [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)| 42.7k | 🔺10476 |
+| 2 |  [anthropics/courses](https://github.com/anthropics/courses)| 16.1k | 🔺3817 |
+| 3 |  [frdel/agent-zero](https://github.com/frdel/agent-zero)| 10.4k | 🔺3581 |
+| 4 |  [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)| 9.5k | 🔺3457 |
+| 5 |  [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)| 9.5k | 🔺3053 |
+| 6 |  [voideditor/void](https://github.com/voideditor/void)| 25.2k | 🔺2809 |
+| 7 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 33k | 🔺2235 |
+| 8 |  [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)| 33k | 🔺2121 |
+| 9 |  [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)| 15.3k | 🔺1891 |
+| 10 |  [huggingface/lerobot](https://github.com/huggingface/lerobot)| 15.3k | 🔺1524 |
+| 11 |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)| 36.6k | 🔺1474 |
+| 12 |  [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)| 16.4k | 🔺1451 |
+| 13 |  [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)| 14.5k | 🔺1409 |
+| 14 |  [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)| 33.3k | 🔺1408 |
+| 15 |  [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)| 13.2k | 🔺1374 |
+| 16 |  [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)| 34.4k | 🔺1306 |
+| 17 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)| 29.1k | 🔺1304 |
+| 18 |  [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)| 11.6k | 🔺1274 |
+| 19 |  [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)| 21.3k | 🔺1249 |
+| 20 |  [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)| 21.2k | 🔺1219 |
+| 21 |  [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)| 14.2k | 🔺1213 |
+| 22 |  [coollabsio/coolify](https://github.com/coollabsio/coolify)| 42.9k | 🔺1196 |
+| 23 |  [ManimCommunity/manim](https://github.com/ManimCommunity/manim)| 33.2k | 🔺1192 |
+| 24 |  [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)| 17.4k | 🔺1172 |
+| 25 |  [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)| 8.1k | 🔺1143 |
+| 26 |  [jj-vcs/jj](https://github.com/jj-vcs/jj)| 16.7k | 🔺1136 |
+| 27 |  [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)| 25.1k | 🔺1126 |
+| 28 |  [black-forest-labs/flux](https://github.com/black-forest-labs/flux)| 23k | 🔺1073 |
+| 29 |  [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)| 26.9k | 🔺997 |
+| 30 |  [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)| 17.9k | 🔺994 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-monthly-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.02-2025.05.31 月榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.31-2025.06.29 月榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. AI编码工具 https://github.com/voideditor/void</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 开源命令行智能代理 https://github.com/google-gemini/gemini-cli</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：22.5k
-- 🔺 上周增长数量：805⭐
-- 🔺 上月增长数量：10367⭐
-- 🔺 上月增长率：85%
+- ⭐ 总星标数量：42.7k
+- 🔺 上周增长数量：10476⭐
+- 🔺 上月增长数量：10476⭐
+- 🔺 上月增长率：0%
+- 📅 开源时间：2025-04-18
+- 📝 项目描述： Google 开发的一个开源命令行智能代理，它将先进的 Gemini AI 直接带入你的终端环境。通过自然语言交互，Gemini CLI 可以理解并编辑代码、执行命令、自动处理复杂任务——就像在终端里直接“聊天编程”一样。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250627/pic_org_bc7a3382-9159-420c-9655-bbd9b073148f.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 学习课程 https://github.com/anthropics/courses</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：16.1k
+- 🔺 上周增长数量：366⭐
+- 🔺 上月增长数量：3817⭐
+- 🔺 上月增长率：31%
+- 📅 开源时间：2024-05-30
+- 📝 项目描述：一个有意义的学习课程项目。anthropics/courses 可能为用户提供关于特定领域的学习课程和资源，帮助他们提升知识和技能。对于想要学习新领域知识的人来说，这个项目是一个很好的选择。
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 智能代理 https://github.com/frdel/agent-zero</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：10.4k
+- 🔺 上周增长数量：189⭐
+- 🔺 上月增长数量：3581⭐
+- 🔺 上月增长率：52%
+- 📅 开源时间：2024-06-10
+- 📝 项目描述：Agent Zero是一个有机的智能体框架，它会随着用户的使用而成长和学习。它具有高度的透明度、可读性、可理解性、可定制性和交互性，利用计算机作为工具来完成用户的任务。
+
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250606/pic_org_1d11ade5-ddae-4b63-a8c4-b8ed829ba101.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 量化交易的高性能算法交易框架 https://github.com/nautechsystems/nautilus_trader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.5k
+- 🔺 上周增长数量：265⭐
+- 🔺 上月增长数量：3457⭐
+- 🔺 上月增长率：57%
+- 📅 开源时间：2018-06-25
+- 📝 项目描述：A high-performance algorithmic trading platform and event-driven backtester
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250623/pic_org_fc54a985-952e-4f31-8a38-c551e27c52cf.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/microsoft/fluentui-system-icons</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.5k
+- 🔺 上周增长数量：233⭐
+- 🔺 上月增长数量：3053⭐
+- 🔺 上月增长率：47%
+- 📅 开源时间：2020-05-13
+- 📝 项目描述：微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一。
+    ![](https://photocdn.tv.sohu.com/img/github/263452252.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. AI编码工具 https://github.com/voideditor/void</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：25.2k
+- 🔺 上周增长数量：728⭐
+- 🔺 上月增长数量：2809⭐
+- 🔺 上月增长率：12%
 - 📅 开源时间：2024-09-11
 - 📝 项目描述：Void is the open-source Cursor alternative. This repo contains the full sourcecode for Void. We have a waitlist for downloading the official release, but you can build and develop Void right now.
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_5fceaa0a-4517-44ad-9e5c-692b5bec404d.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 用 SQL 开启机器学习的数据库 https://github.com/mindsdb/mindsdb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：31k
-- 🔺 上周增长数量：1381⭐
-- 🔺 上月增长数量：3139⭐
-- 🔺 上月增长率：11%
-- 📅 开源时间：2018-08-03
-- 📝 项目描述：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
-    ![](https://photocdn.tv.sohu.com/img/github/143328315.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/jj-vcs/jj</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：15.6k
-- 🔺 上周增长数量：379⭐
-- 🔺 上月增长数量：3044⭐
-- 🔺 上月增长率：24%
-- 📅 开源时间：2020-12-18
-- 📝 项目描述：A Git-compatible VCS that is both simple and powerful
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 智能语言 https://github.com/QwenLM/Qwen2.5</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：21.8k
-- 🔺 上周增长数量：186⭐
-- 🔺 上月增长数量：2830⭐
-- 🔺 上月增长率：14%
-- 📅 开源时间：2024-02-05
-- 📝 项目描述：一个强大的智能语言项目。QwenLM/Qwen2.5 可能为用户提供高质量的语言交互服务，具有广泛的应用前景。无论是智能客服、智能写作还是其他领域，这个项目都有望发挥重要作用。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/maboloshi/github-chinese</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：11.9k
-- 🔺 上周增长数量：495⭐
-- 🔺 上月增长数量：2702⭐
-- 🔺 上月增长率：29%
-- 📅 开源时间：2021-09-27
-- 📝 项目描述：GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
-    ![](https://photocdn.tv.sohu.com/img/github/410808715.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：30.8k
-- 🔺 上周增长数量：334⭐
-- 🔺 上月增长数量：2269⭐
+- ⭐ 总星标数量：33k
+- 🔺 上周增长数量：417⭐
+- 🔺 上月增长数量：2235⭐
 - 🔺 上月增长率：7%
 - 📅 开源时间：2024-07-09
 - 📝 项目描述：一个实用的文档处理项目。docling 可以帮助用户更好地管理和分析文档，提高工作效率。对于经常处理文档的用户来说，是一个很有帮助的工具。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 微软网络 https://github.com/microsoft/BitNet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 用 SQL 开启机器学习的数据库 https://github.com/mindsdb/mindsdb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.9k
-- 🔺 上周增长数量：91⭐
-- 🔺 上月增长数量：2115⭐
-- 🔺 上月增长率：11%
-- 📅 开源时间：2024-08-05
-- 📝 项目描述：一个由微软推出的网络相关项目。BitNet 可能在网络技术和通信方面有新的突破和创新，为开发者和企业提供更好的网络解决方案。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. PDF 翻译 https://github.com/Byaidu/PDFMathTranslate</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：24.3k
-- 🔺 上周增长数量：276⭐
-- 🔺 上月增长数量：2059⭐
-- 🔺 上月增长率：9%
-- 📅 开源时间：2024-09-06
-- 📝 项目描述：一个实用的 PDF 数学公式翻译项目。Byaidu/PDFMathTranslate 能够将 PDF 文档中的数学公式进行准确翻译，为学术研究和教育工作者提供了极大的便利。对于需要处理大量数学文献的人来说，这个项目可以节省大量的时间和精力，提高工作效率。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. Win 工具 https://github.com/ChrisTitusTech/winutil</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：35.1k
-- 🔺 上周增长数量：361⭐
-- 🔺 上月增长数量：2042⭐
+- ⭐ 总星标数量：33k
+- 🔺 上周增长数量：363⭐
+- 🔺 上月增长数量：2121⭐
 - 🔺 上月增长率：6%
+- 📅 开源时间：2018-08-03
+- 📝 项目描述：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
+    ![](https://photocdn.tv.sohu.com/img/github/143328315.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 自托管指南 https://github.com/mikeroyal/Self-Hosting-Guide</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：15.3k
+- 🔺 上周增长数量：1674⭐
+- 🔺 上月增长数量：1891⭐
+- 🔺 上月增长率：14%
+- 📅 开源时间：2022-02-07
+- 📝 项目描述：一个全面的自托管指南项目。全面了解如何在本地（在本地服务器和私有网络服务器上）自行或由您的组织托管和管理软件应用程序。涵盖云服务、大语言模型、WireGuard、自动化、Home Assistant 以及网络服务.
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250626/pic_org_21aeaa51-f9d4-4e93-9fd0-d4bbc1642d82.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 智能机器人 https://github.com/huggingface/lerobot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：15.3k
+- 🔺 上周增长数量：193⭐
+- 🔺 上月增长数量：1524⭐
+- 🔺 上月增长率：11%
+- 📅 开源时间：2024-01-26
+- 📝 项目描述：一个有潜力的智能机器人项目。huggingface/lerobot 可能为用户提供智能对话和任务处理能力，具有广泛的应用前景。无论是在客服、教育还是其他领域，这个项目都有望发挥重要作用。
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11. Win 工具 https://github.com/ChrisTitusTech/winutil</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：36.6k
+- 🔺 上周增长数量：362⭐
+- 🔺 上月增长数量：1474⭐
+- 🔺 上月增长率：4%
 - 📅 开源时间：2022-04-28
 - 📝 项目描述：一个实用的 Windows 工具集项目。winutil 可以为 Windows 用户提供各种便捷的功能，提高工作效率。对于经常使用 Windows 系统的人来说，是一个很有价值的工具。
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230529/pic_org_20ed9ae8-ecb6-4945-a6ac-48412d768d86.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/dylanaraps/pure-bash-bible</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/Orange-OpenSource/hurl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：39k
-- 🔺 上周增长数量：162⭐
-- 🔺 上月增长数量：1895⭐
-- 🔺 上月增长率：5%
-- 📅 开源时间：2018-06-13
-- 📝 项目描述：该书有好多复制就能用的 bash 函数，我愿称其为 bash 的“奇技淫巧”。比如把字母转为大写的函数
+- ⭐ 总星标数量：16.4k
+- 🔺 上周增长数量：197⭐
+- 🔺 上月增长数量：1451⭐
+- 🔺 上月增长率：9%
+- 📅 开源时间：2020-08-25
+- 📝 项目描述：Hurl, run and test HTTP requests with plain text.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13. 限制工具 https://github.com/Flowseal/zapret-discord-youtube</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：14.5k
+- 🔺 上周增长数量：214⭐
+- 🔺 上月增长数量：1409⭐
+- 🔺 上月增长率：10%
+- 📅 开源时间：2024-10-09
+- 📝 项目描述：一个具有特定功能的项目。Flowseal/zapret-discord-youtube 可能用于对 Discord 和 YouTube 进行某种限制操作，对于有特定网络管理需求的用户来说，这个项目值得关注，它或许能提供一种独特的解决方案。
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14. 长寿指南 https://github.com/geekan/HowToLiveLonger</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：33.3k
+- 🔺 上周增长数量：540⭐
+- 🔺 上月增长数量：1408⭐
+- 🔺 上月增长率：4%
+- 📅 开源时间：2022-04-16
+- 📝 项目描述：一个有趣的项目，探讨如何活得更长久。它可能包含各种健康生活方式的建议和科学研究成果，为人们追求健康长寿提供参考。对于关注健康的人来说，是一个值得一看的项目。
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/maboloshi/github-chinese</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：13.2k
+- 🔺 上周增长数量：235⭐
+- 🔺 上月增长数量：1374⭐
+- 🔺 上月增长率：11%
+- 📅 开源时间：2021-09-27
+- 📝 项目描述：GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
+    ![](https://photocdn.tv.sohu.com/img/github/410808715.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16. 全球领先公司blog资源库 https://github.com/kilimchoi/engineering-blogs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：34.4k
+- 🔺 上周增长数量：1164⭐
+- 🔺 上月增长数量：1306⭐
+- 🔺 上月增长率：3%
+- 📅 开源时间：2015-06-14
+- 📝 项目描述：600多个大牛公司和各大牛的技术blog开源资源，收集了来自全球领先公司和技术领袖的工程博客链接。它通过分公司、个人贡献者、技术产品等多个维度分类，帮助开发者轻松找到优质的技术分享，从核心架构设计到开发实践、性能优化、团队协作、电商实战、前端/后端技术等领域。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250626/pic_org_e5fbe363-9375-4239-beac-1ba511936bc3.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/DioxusLabs/dioxus</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：29.1k
+- 🔺 上周增长数量：992⭐
+- 🔺 上月增长数量：1304⭐
+- 🔺 上月增长率：4%
+- 📅 开源时间：2021-01-15
+- 📝 项目描述：Fullstack app framework for web, desktop, mobile, and more.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/dail8859/NotepadNext</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：11.6k
+- 🔺 上周增长数量：158⭐
+- 🔺 上月增长数量：1274⭐
+- 🔺 上月增长率：12%
+- 📅 开源时间：2019-11-28
+- 📝 项目描述：Notepad++  的替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。
+    ![](https://photocdn.tv.sohu.com/img/github/224468265.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/ml-tooling/best-of-ml-python</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：21.3k
+- 🔺 上周增长数量：1051⭐
+- 🔺 上月增长数量：1249⭐
+- 🔺 上月增长率：6%
+- 📅 开源时间：2020-11-30
+- 📝 项目描述：🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20. 静态应用程序安全测试工具 https://github.com/zricethezav/gitleaks</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：21.2k
+- 🔺 上周增长数量：937⭐
+- 🔺 上月增长数量：1219⭐
+- 🔺 上月增长率：6%
+- 📅 开源时间：2018-01-28
+- 📝 项目描述：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
+    ![](https://photocdn.tv.sohu.com/img/github/119190187.gif)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">21. chrome资源嗅探扩展 https://github.com/xifangczy/cat-catch</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：14.2k
+- 🔺 上周增长数量：122⭐
+- 🔺 上月增长数量：1213⭐
+- 🔺 上月增长率：9%
+- 📅 开源时间：2015-12-25
+- 📝 项目描述：开源的媒体嗅探浏览器插件。这个名为「猫爪」的浏览器插件，可以帮你列出当前页面的音乐和视频资源的下载地址。
+    ![](https://photocdn.tv.sohu.com/img/github/48576134.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">22.  https://github.com/coollabsio/coolify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：42.9k
+- 🔺 上周增长数量：230⭐
+- 🔺 上月增长数量：1196⭐
+- 🔺 上月增长率：2%
+- 📅 开源时间：2021-01-26
+- 📝 项目描述：An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">23.  https://github.com/ManimCommunity/manim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：33.2k
+- 🔺 上周增长数量：275⭐
+- 🔺 上月增长数量：1192⭐
+- 🔺 上月增长率：3%
+- 📅 开源时间：2020-05-19
+- 📝 项目描述：用于创建数学动画的 Python 框架。它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11. 认证工具 https://github.com/better-auth/better-auth</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">24. 定制化音乐播放器 https://github.com/maotoumao/MusicFree</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：14.3k
-- 🔺 上周增长数量：281⭐
-- 🔺 上月增长数量：1880⭐
-- 🔺 上月增长率：15%
-- 📅 开源时间：2024-05-20
-- 📝 项目描述：一个强大的认证工具项目。better-auth/better-auth 可以为应用程序提供安全可靠的用户认证和授权功能，保护用户数据和隐私。对于从事软件开发的人来说，这个项目是一个很有价值的安全组件。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12. 智能爬虫 https://github.com/mendableai/firecrawl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：39.1k
-- 🔺 上周增长数量：309⭐
-- 🔺 上月增长数量：1864⭐
-- 🔺 上月增长率：5%
-- 📅 开源时间：2024-04-16
-- 📝 项目描述：一个有潜力的智能爬虫项目。firecrawl 可以帮助用户高效地抓取网络数据，为数据分析和研究提供有力支持。对于需要进行数据采集的用户来说，是一个很有价值的工具。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13. 实时数据处理利器 https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：26.3k
-- 🔺 上周增长数量：702⭐
-- 🔺 上月增长数量：1754⭐
+- ⭐ 总星标数量：17.4k
+- 🔺 上周增长数量：204⭐
+- 🔺 上月增长数量：1172⭐
 - 🔺 上月增长率：7%
-- 📅 开源时间：2022-11-27
-- 📝 项目描述：一个专注于实时数据处理的 pathway 项目。在大数据时代，数据的实时性变得越来越关键。pathway 提供了强大的实时数据处理能力，它能够快速且高效地处理源源不断的数据流。无论是金融领域的交易数据监控、电商平台的实时用户行为分析，还是物联网场景下的设备数据处理，pathway 都能发挥重要作用。通过简洁而灵活的编程接口，开发者可以轻松构建复杂的数据处理逻辑，实现对数据的过滤、转换、聚合等操作。这不仅极大地提高了数据处理的效率，还能帮助企业及时做出决策，抓住市场机会，提升竞争力。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250401/pic_org_4fc0b7b2-2e96-40e1-a4bf-88a5c9ae7d02.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14. 预测工具 https://github.com/Predidit/Kazumi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：10.9k
-- 🔺 上周增长数量：279⭐
-- 🔺 上月增长数量：1742⭐
-- 🔺 上月增长率：19%
-- 📅 开源时间：2024-05-09
-- 📝 项目描述：一个具有预测功能的项目。Kazumi 可能在数据分析和趋势预测方面有独特的能力，为用户提供有价值的信息和决策支持。
-    ![](https://photocdn.tv.sohu.com/img/github/798049841.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15. 网页快速打包成MacApp的开源工具 https://github.com/tw93/Pake</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：39k
-- 🔺 上周增长数量：398⭐
-- 🔺 上月增长数量：1701⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2022-10-14
-- 📝 项目描述：一个可以将各种网页快速打包成MacApp。相比Electron，Pake更加小巧易用，速度更快，并且实现了通用的快捷键透传、沉浸式窗口、拖动、打包样式兼容等特性。对于需要将网页应用打包成桌面应用的开发者来说，Pake提供了一个方便、高效的开源工具.
-
-
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20240219/pic_org_b4e8273f-f896-49f7-af49-98bf203b580f.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16. 定制化音乐播放器 https://github.com/maotoumao/MusicFree</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：16.3k
-- 🔺 上周增长数量：193⭐
-- 🔺 上月增长数量：1497⭐
-- 🔺 上月增长率：10%
 - 📅 开源时间：2022-08-22
 - 📝 项目描述：一款插件化、高度定制化且无广告干扰的音乐播放器。它为用户提供了一个清洁、直观的用户界面，通过自定义插件支持，用户可以根据个人偏好调整播放器功能，享受纯净的音乐体验。
     ![](http://photocdn.tv.sohu.com/img/q_mini/20240412/pic_org_fca8acca-2cde-42dc-a857-72848284d4ff.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17. 云端 Postgres 服务 https://github.com/neondatabase/neon</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">25. 视频制作 https://github.com/elebumm/RedditVideoMakerBot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：18.3k
-- 🔺 上周增长数量：94⭐
-- 🔺 上月增长数量：1406⭐
-- 🔺 上月增长率：8%
-- 📅 开源时间：2021-03-26
-- 📝 项目描述：一个创新的云端 PostgreSQL 数据库服务项目 ——Neon。在当今数字化时代，数据库的高效运行与便捷管理至关重要。Neon 为用户带来了全新的体验，它基于 PostgreSQL，提供了无服务器、自动扩展等特性。用户无需担心服务器的配置与维护，可专注于数据的处理与应用开发。对于开发者来说，Neon 的快速部署和灵活扩展能力，能大大缩短项目开发周期。同时，它具备高可用性和数据安全性，确保数据的可靠存储与访问。无论是小型创业公司还是大型企业，Neon 都能满足其对数据库的多样化需求，助力业务的稳定发展。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250519/pic_org_f39ba5fe-5800-4220-8fd1-1dd3958d804a.jpg)
+- ⭐ 总星标数量：8.1k
+- 🔺 上周增长数量：35⭐
+- 🔺 上月增长数量：1143⭐
+- 🔺 上月增长率：16%
+- 📅 开源时间：2022-05-26
+- 📝 项目描述：一个有创意的视频制作项目。RedditVideoMakerBot 可以从 Reddit 上获取内容并制作成视频，为内容创作者提供了一种新的创作方式。对于喜欢制作视频和活跃在 Reddit 平台的用户来说，这个项目具有很大的吸引力。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/astral-sh/ruff</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">26.  https://github.com/jj-vcs/jj</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：39.6k
-- 🔺 上周增长数量：206⭐
-- 🔺 上月增长数量：1398⭐
-- 🔺 上月增长率：3%
-- 📅 开源时间：2022-08-10
-- 📝 项目描述：An extremely fast Python linter and code formatter, written in Rust.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19. 学习课程 https://github.com/anthropics/courses</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：12.6k
-- 🔺 上周增长数量：909⭐
-- 🔺 上月增长数量：1368⭐
-- 🔺 上月增长率：12%
-- 📅 开源时间：2024-05-30
-- 📝 项目描述：一个有意义的学习课程项目。anthropics/courses 可能为用户提供关于特定领域的学习课程和资源，帮助他们提升知识和技能。对于想要学习新领域知识的人来说，这个项目是一个很好的选择。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/juanfont/headscale</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：28.8k
-- 🔺 上周增长数量：137⭐
-- 🔺 上月增长数量：1323⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2020-06-21
-- 📝 项目描述：An open source, self-hosted implementation of the Tailscale control server
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">21. 北大开源库 https://github.com/lib-pku/libpku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：31.9k
-- 🔺 上周增长数量：160⭐
-- 🔺 上月增长数量：1269⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2018-11-22
-- 📝 项目描述：一个有价值的学术资源项目。libpku 由北京大学推出，包含了丰富的学术资源和工具，如论文、数据集、代码等。对于学术研究者和学生来说，是一个非常好的学习和研究平台。
-    ![]()
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">22. 微信工具 https://github.com/xaoyaoo/PyWxDump</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.4k
-- 🔺 上周增长数量：123⭐
-- 🔺 上月增长数量：1239⭐
-- 🔺 上月增长率：17%
-- 📅 开源时间：2023-08-21
-- 📝 项目描述：一个针对微信的实用项目。PyWxDump 可能提供微信数据的提取或分析功能，对于研究微信或有特定需求的人有帮助。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">23. 开发人员的在线工具集 https://github.com/CorentinTh/it-tools</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：30.3k
-- 🔺 上周增长数量：152⭐
-- 🔺 上月增长数量：1220⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2020-04-05
-- 📝 项目描述：一个为开发人员提供的一组实用的在线工具集合，具有出色的用户体验。这些工具旨在帮助开发人员更轻松地执行各种任务，从代码测试到性能分析等。it-tools注重用户体验，确保用户可以快速而高效地使用这些工具，从而提高他们的工作效率。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20231013/pic_org_a305ad25-781b-4c16-b865-b0727d91b8d5.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">24. 代码混合 https://github.com/yamadashy/repomix</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：16.5k
-- 🔺 上周增长数量：273⭐
-- 🔺 上月增长数量：1197⭐
+- ⭐ 总星标数量：16.7k
+- 🔺 上周增长数量：257⭐
+- 🔺 上月增长数量：1136⭐
 - 🔺 上月增长率：7%
-- 📅 开源时间：2024-07-13
-- 📝 项目描述：一个有趣的代码混合项目。yamadashy/repomix 可能通过混合不同的代码库或项目，创造出独特的功能和应用。对于喜欢探索代码
+- 📅 开源时间：2020-12-18
+- 📝 项目描述：A Git-compatible VCS that is both simple and powerful
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">25. AI 应用框架 https://github.com/alibaba/spring-ai-alibaba</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">27. 跨平台网络监控工具 https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3.7k
-- 🔺 上周增长数量：181⭐
-- 🔺 上月增长数量：1170⭐
-- 🔺 上月增长率：45%
-- 📅 开源时间：2024-09-09
-- 📝 项目描述：Spring AI Alibaba 开源项目基于 Spring AI 构建，是阿里云通义系列模型及服务在 Java AI 应用开发领域的最佳实践，提供高层次的 AI API 抽象与云原生基础设施集成方案，帮助开发者快速构建 AI 应用。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250227/pic_org_d7280571-fd02-43fd-bd63-27503323e390.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">26.  https://github.com/jellyfin/jellyfin</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：40.2k
-- 🔺 上周增长数量：413⭐
-- 🔺 上月增长数量：1111⭐
-- 🔺 上月增长率：2%
-- 📅 开源时间：2018-12-09
-- 📝 项目描述：The Free Software Media System - Server Backend & API
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">27.  https://github.com/LizardByte/Sunshine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：25.9k
-- 🔺 上周增长数量：163⭐
-- 🔺 上月增长数量：1099⭐
+- ⭐ 总星标数量：25.1k
+- 🔺 上周增长数量：609⭐
+- 🔺 上月增长数量：1126⭐
 - 🔺 上月增长率：4%
+- 📅 开源时间：2022-08-01
+- 📝 项目描述：一个用 Rust 编写的跨平台网络监控工具，具有图形化界面，支持对本机的实时网络流量进行分析和可视化展示。它简单、直观、开源、安全，适合网络分析爱好者、系统管理员和开发者快速排查网络连接问题或观察设备行为。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250630/pic_org_197545f3-85b5-49f5-aed7-3bb52048bdfc.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">28.  Flux 模型推理 https://github.com/black-forest-labs/flux</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：23k
+- 🔺 上周增长数量：431⭐
+- 🔺 上月增长数量：1073⭐
+- 🔺 上月增长率：4%
+- 📅 开源时间：2024-08-01
+- 📝 项目描述： Flux 模型运行图像生成和编辑的最小推理代码
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_44041fe3-60c2-453c-b4d4-2f53c7d20779.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">29. 自托管游戏串流服务器 https://github.com/LizardByte/Sunshine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：26.9k
+- 🔺 上周增长数量：177⭐
+- 🔺 上月增长数量：997⭐
+- 🔺 上月增长率：3%
 - 📅 开源时间：2021-12-16
-- 📝 项目描述：Self-hosted game stream host for Moonlight.
+- 📝 项目描述：一个自托管的游戏串流服务，支持与 Moonlight 客户端配合使用。它提供低延迟体验，支持 AMD、Intel、Nvidia 显卡硬件编码，也支持软件编码。用户可通过网页界面进行配置和配对，支持多设备连接。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250611/pic_org_dc79c07e-1bf5-4c1f-aa47-19f3dddd209f.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">28. 知识检索 https://github.com/HKUDS/LightRAG</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30. 知识检索 https://github.com/HKUDS/LightRAG</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：16.9k
-- 🔺 上周增长数量：243⭐
-- 🔺 上月增长数量：1084⭐
-- 🔺 上月增长率：6%
+- ⭐ 总星标数量：17.9k
+- 🔺 上周增长数量：166⭐
+- 🔺 上月增长数量：994⭐
+- 🔺 上月增长率：5%
 - 📅 开源时间：2024-10-02
 - 📝 项目描述：一个高效的知识检索项目。HKUDS/LightRAG 可以帮助用户快速准确地检索和获取知识，为学习和研究提供支持。对于需要进行知识管理和检索的人来说，这个项目是一个很实用的工具。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">29.  https://github.com/aquasecurity/trivy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：27k
-- 🔺 上周增长数量：83⭐
-- 🔺 上月增长数量：998⭐
-- 🔺 上月增长率：3%
-- 📅 开源时间：2019-04-11
-- 📝 项目描述：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30.  https://github.com/koreader/koreader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：21.8k
-- 🔺 上周增长数量：88⭐
-- 🔺 上月增长数量：993⭐
-- 🔺 上月增长率：4%
-- 📅 开源时间：2013-03-24
-- 📝 项目描述：电子墨水（E-Ink）设备的开源阅读软件。适用于 Kindle、Kobo、PocketBook、Android 和 Linux 等设备，拥有设置字体、行距、文本样式等功能，最厉害的是适应水墨屏设备的 PDF 文件排版优化功能，极大的提高了 PDF 文件在 Kindle 等设备的阅读体验
-    ![](https://photocdn.tv.sohu.com/img/github/8986217.jpeg)
 
 
 
 ---
+## 更多Github开源项目,请关注微信&公众号
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+sparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
