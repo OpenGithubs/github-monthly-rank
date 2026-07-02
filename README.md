@@ -17,31 +17,31 @@
 
 > 🏆2026.06.30月榜最佳项目前5名
 
-- **榜单增长第1名 : DietrichGebert/ponytail  **
+- **榜单增长第1名 : DietrichGebert/ponytail**
     - 开源地址：https://github.com/DietrichGebert/ponytail
     - 📅 开源时间：2026-06-15
     - ⭐ 总星标数量：67025⭐
     - 🔺 月Star增长量：59287⭐
     - 📝 项目描述: 
-- **榜单增长第2名 : Lum1104/Understand-Anything  **
+- **榜单增长第2名 : Lum1104/Understand-Anything**
     - 开源地址：https://github.com/Lum1104/Understand-Anything
     - 📅 开源时间：2026-03-15
     - ⭐ 总星标数量：69185⭐
     - 🔺 月Star增长量：33946⭐
     - 📝 项目描述: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-- **榜单增长第3名 : Panniantong/Agent-Reach  **
+- **榜单增长第3名 : Panniantong/Agent-Reach**
     - 开源地址：https://github.com/Panniantong/Agent-Reach
     - 📅 开源时间：2026-02-24
     - ⭐ 总星标数量：45586⭐
     - 🔺 月Star增长量：24094⭐
     - 📝 项目描述: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- **榜单增长第4名 : calesthio/OpenMontage  **
+- **榜单增长第4名 : calesthio/OpenMontage**
     - 开源地址：https://github.com/calesthio/OpenMontage
     - 📅 开源时间：2026-03-29
     - ⭐ 总星标数量：28370⭐
     - 🔺 月Star增长量：23149⭐
     - 📝 项目描述: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- **榜单增长第5名 : mvanhorn/last30days-skill  **
+- **榜单增长第5名 : mvanhorn/last30days-skill**
     - 开源地址：https://github.com/mvanhorn/last30days-skill
     - 📅 开源时间：2026-01-24
     - ⭐ 总星标数量：47878⭐
@@ -354,10 +354,10 @@
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 s="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-��察Github开源社区动态</span><center>
+��察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-��间：2023-04-28
+��间：2023-04-28
 - 📝 项目描述：Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 
