@@ -1,4 +1,4 @@
-## 2026.09.30 本月最佳开源项目🔝:archify
+## 2026.10.31 本月最佳开源项目🔝:AnyPS5
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,338 +15,334 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.09.30月榜最佳项目前5名
+> 🏆2026.10.31月榜最佳项目前5名
 
-- **榜单增长第1名 : tt-a1i/archify  **
-    - 开源地址：https://github.com/tt-a1i/archify
-    - 📅 开源时间：2026-04-15
-    - ⭐ 总星标数量：74146⭐
-    - 🔺 月Star增长量：40043⭐
-    - 📝 项目描述: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **榜单增长第2名 : ayghri/i-have-adhd  **
-    - 开源地址：https://github.com/ayghri/i-have-adhd
-    - 📅 开源时间：2026-05-14
-    - ⭐ 总星标数量：52110⭐
-    - 🔺 月Star增长量：27516⭐
-    - 📝 项目描述: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-- **榜单增长第3名 : NandhaKishorM/laya  **
-    - 开源地址：https://github.com/NandhaKishorM/laya
-    - 📅 开源时间：2026-09-21
-    - ⭐ 总星标数量：28480⭐
-    - 🔺 月Star增长量：24592⭐
-    - 📝 项目描述: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-- **榜单增长第4名 : alibaba/open-code-review  **
-    - 开源地址：https://github.com/alibaba/open-code-review
-    - 📅 开源时间：2026-05-18
-    - ⭐ 总星标数量：42557⭐
-    - 🔺 月Star增长量：21095⭐
-    - 📝 项目描述: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- **榜单增长第5名 : cloudflare/security-audit-skill  **
+- **榜单增长第1名 : boykopovar/AnyPS5  **
+    - 开源地址：https://github.com/boykopovar/AnyPS5
+    - 📅 开源时间：2026-08-04
+    - ⭐ 总星标数量：49782⭐
+    - 🔺 月Star增长量：46261⭐
+    - 📝 项目描述: Tool for automatic PS5 executables porting to Linux and Windows
+- **榜单增长第2名 : Gathin23/cleanyourtv  **
+    - 开源地址：https://github.com/Gathin23/cleanyourtv
+    - 📅 开源时间：2026-10-20
+    - ⭐ 总星标数量：46530⭐
+    - 🔺 月Star增长量：41490⭐
+    - 📝 项目描述: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- **榜单增长第3名 : debpalash/VoiceStudio  **
+    - 开源地址：https://github.com/debpalash/VoiceStudio
+    - 📅 开源时间：2026-04-10
+    - ⭐ 总星标数量：95482⭐
+    - 🔺 月Star增长量：35337⭐
+    - 📝 项目描述: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- **榜单增长第4名 : cloudflare/security-audit-skill  **
     - 开源地址：https://github.com/cloudflare/security-audit-skill
     - 📅 开源时间：2026-06-18
-    - ⭐ 总星标数量：23112⭐
-    - 🔺 月Star增长量：16211⭐
+    - ⭐ 总星标数量：53861⭐
+    - 🔺 月Star增长量：32278⭐
     - 📝 项目描述: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- **榜单增长第5名 : storytold/artcraft  **
+    - 开源地址：https://github.com/storytold/artcraft
+    - 📅 开源时间：2022-04-01
+    - ⭐ 总星标数量：37799⭐
+    - 🔺 月Star增长量：30265⭐
+    - 📝 项目描述: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.09.01-2026.09.30 月榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.02-2026.10.31 月榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 | 排名        |  项目名          | Star⭐         | 上月增长量   |
 |------------|---------------|---------------- |-------------|
-| 1 |  [tt-a1i/archify](https://github.com/tt-a1i/archify)| 74.1k | 🔺40043 |
-| 2 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)| 52.1k | 🔺27516 |
-| 3 |  [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)| 28.5k | 🔺24592 |
-| 4 |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)| 42.6k | 🔺21095 |
-| 5 |  [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)| 23.1k | 🔺16211 |
-| 6 |  [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)| 21.4k | 🔺16005 |
-| 7 |  [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)| 39.5k | 🔺15757 |
-| 8 |  [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)| 42.6k | 🔺14949 |
-| 9 |  [blader/humanizer](https://github.com/blader/humanizer)| 52.9k | 🔺12595 |
-| 10 |  [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)| 33.7k | 🔺12591 |
-| 11 |  [basecamp/omarchy](https://github.com/basecamp/omarchy)| 43.6k | 🔺11704 |
-| 12 |  [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)| 61.2k | 🔺11639 |
-| 13 |  [JustVugg/colibri](https://github.com/JustVugg/colibri)| 38.4k | 🔺10971 |
-| 14 |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)| 61.9k | 🔺10786 |
-| 15 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)| 86.2k | 🔺10602 |
-| 16 |  [Tencent/WeKnora](https://github.com/Tencent/WeKnora)| 31.5k | 🔺10349 |
-| 17 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 22.1k | 🔺10241 |
-| 18 |  [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)| 91.2k | 🔺10241 |
-| 19 |  [paperclipai/paperclip](https://github.com/paperclipai/paperclip)| 94.3k | 🔺9586 |
-| 20 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 17.5k | 🔺9256 |
-| 21 |  [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)| 51.7k | 🔺9237 |
-| 22 |  [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)| 38.7k | 🔺9167 |
-| 23 |  [emilkowalski/skills](https://github.com/emilkowalski/skills)| 41.9k | 🔺9096 |
-| 24 |  [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)| 29.9k | 🔺9028 |
-| 25 |  [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)| 29.6k | 🔺8975 |
-| 26 |  [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)| 41.4k | 🔺8861 |
-| 27 |  [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)| 29.5k | 🔺8809 |
-| 28 |  [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)| 54.2k | 🔺8509 |
-| 29 |  [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)| 44.5k | 🔺8170 |
-| 30 |  [every-app/open-seo](https://github.com/every-app/open-seo)| 21.7k | 🔺8141 |
+| 1 |  [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)| 49.8k | 🔺46261 |
+| 2 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)| 46.5k | 🔺41490 |
+| 3 |  [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)| 95.5k | 🔺35337 |
+| 4 |  [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)| 53.9k | 🔺32278 |
+| 5 |  [storytold/artcraft](https://github.com/storytold/artcraft)| 37.8k | 🔺30265 |
+| 6 |  [feder-cr/dots](https://github.com/feder-cr/dots)| 32.3k | 🔺29959 |
+| 7 |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)| 96.8k | 🔺25733 |
+| 8 |  [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)| 76k | 🔺22911 |
+| 9 |  [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)| 63.2k | 🔺20911 |
+| 10 |  [tt-a1i/archify](https://github.com/tt-a1i/archify)| 91.8k | 🔺20178 |
+| 11 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 23k | 🔺19820 |
+| 12 |  [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)| 61.5k | 🔺19092 |
+| 13 |  [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)| 96.4k | 🔺16105 |
+| 14 |  [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)| 71.3k | 🔺14914 |
+| 15 |  [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)| 44.6k | 🔺14381 |
+| 16 |  [storytold/wordcraft](https://github.com/storytold/wordcraft)| 16.7k | 🔺13615 |
+| 17 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 17.7k | 🔺13574 |
+| 18 |  [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)| 24.5k | 🔺12539 |
+| 19 |  [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)| 82.8k | 🔺12174 |
+| 20 |  [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)| 73.3k | 🔺12043 |
+| 21 |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)| 51.6k | 🔺11120 |
+| 22 |  [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)| 75.7k | 🔺11056 |
+| 23 |  [emilkowalski/skills](https://github.com/emilkowalski/skills)| 51.9k | 🔺10761 |
+| 24 |  [blader/humanizer](https://github.com/blader/humanizer)| 62.7k | 🔺10676 |
+| 25 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 26.8k | 🔺10450 |
+| 26 |  [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)| 20.8k | 🔺10284 |
+| 27 |  [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)| 34.7k | 🔺10232 |
+| 28 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 31.2k | 🔺9874 |
+| 29 |  [tester-army/e2e](https://github.com/tester-army/e2e)| 12.3k | 🔺9362 |
+| 30 |  [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)| 65.2k | 🔺9229 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-monthly-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.09.01-2026.09.30 月榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.02-2026.10.31 月榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/tt-a1i/archify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/boykopovar/AnyPS5</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：74.1k
-- 🔺 上周增长数量：4362⭐
-- 🔺 上月增长数量：40043⭐
-- 📅 开源时间：2026-04-15
-- 📝 项目描述：Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+- ⭐ 总星标数量：49.8k
+- 🔺 上周增长数量：2503⭐
+- 🔺 上月增长数量：46261⭐
+- 📅 开源时间：2026-08-04
+- 📝 项目描述：Tool for automatic PS5 executables porting to Linux and Windows
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/ayghri/i-have-adhd</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/Gathin23/cleanyourtv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：52.1k
-- 🔺 上周增长数量：1862⭐
-- 🔺 上月增长数量：27516⭐
-- 🔺 上月增长率：111%
-- 📅 开源时间：2026-05-14
-- 📝 项目描述：A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- ⭐ 总星标数量：46.5k
+- 🔺 上周增长数量：19062⭐
+- 🔺 上月增长数量：41490⭐
+- 📅 开源时间：2026-10-20
+- 📝 项目描述：Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/NandhaKishorM/laya</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/debpalash/VoiceStudio</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：28.5k
-- 🔺 上周增长数量：12537⭐
-- 🔺 上月增长数量：24592⭐
-- 📅 开源时间：2026-09-21
-- 📝 项目描述：Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+- ⭐ 总星标数量：95.5k
+- 🔺 上周增长数量：12572⭐
+- 🔺 上月增长数量：35337⭐
+- 📅 开源时间：2026-04-10
+- 📝 项目描述：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/alibaba/open-code-review</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/cloudflare/security-audit-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：42.6k
-- 🔺 上周增长数量：2876⭐
-- 🔺 上月增长数量：21095⭐
-- 🔺 上月增长率：98%
-- 📅 开源时间：2026-05-18
-- 📝 项目描述：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/cloudflare/security-audit-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：23.1k
-- 🔺 上周增长数量：3099⭐
-- 🔺 上月增长数量：16211⭐
+- ⭐ 总星标数量：53.9k
+- 🔺 上周增长数量：12183⭐
+- 🔺 上月增长数量：32278⭐
+- 🔺 上月增长率：149%
 - 📅 开源时间：2026-06-18
 - 📝 项目描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/browser-use/jev-ultrafast</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/storytold/artcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：21.4k
-- 🔺 上周增长数量：3474⭐
-- 🔺 上月增长数量：16005⭐
-- 📅 开源时间：2026-09-19
-- 📝 项目描述：Fastest and cheapest web agent
+- ⭐ 总星标数量：37.8k
+- 🔺 上周增长数量：1850⭐
+- 🔺 上月增长数量：30265⭐
+- 📅 开源时间：2022-04-01
+- 📝 项目描述：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/THU-MAIC/OpenMAIC</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/feder-cr/dots</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：39.5k
-- 🔺 上周增长数量：951⭐
-- 🔺 上月增长数量：15757⭐
-- 📅 开源时间：2026-03-11
-- 📝 项目描述：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- ⭐ 总星标数量：32.3k
+- 🔺 上周增长数量：85⭐
+- 🔺 上月增长数量：29959⭐
+- 📅 开源时间：2026-10-02
+- 📝 项目描述：Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/vectorize-io/hindsight</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/pbakaus/impeccable</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：42.6k
-- 🔺 上周增长数量：14949⭐
-- 🔺 上月增长数量：14949⭐
-- 📅 开源时间：2025-10-30
-- 📝 项目描述：Hindsight: Agent Memory That Learns
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/blader/humanizer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：52.9k
-- 🔺 上周增长数量：1488⭐
-- 🔺 上月增长数量：12595⭐
-- 📅 开源时间：2026-01-18
-- 📝 项目描述：Agent skill that removes signs of AI-generated writing from text
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/freestylefly/awesome-gpt-image-2</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：33.7k
-- 🔺 上周增长数量：470⭐
-- 🔺 上月增长数量：12591⭐
-- 🔺 上月增长率：59%
-- 📅 开源时间：2026-04-25
-- 📝 项目描述：Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/basecamp/omarchy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：43.6k
-- 🔺 上周增长数量：931⭐
-- 🔺 上月增长数量：11704⭐
+- ⭐ 总星标数量：96.8k
+- 🔺 上周增长数量：11400⭐
+- 🔺 上月增长数量：25733⭐
 - 🔺 上月增长率：36%
-- 📅 开源时间：2025-06-01
-- 📝 项目描述：Beautiful, Modern & Opinionated Linux
+- 📅 开源时间：2025-11-16
+- 📝 项目描述：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/rohitg00/ai-engineering-from-scratch</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/heygen-com/hyperframes</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：61.2k
-- 🔺 上周增长数量：5912⭐
-- 🔺 上月增长数量：11639⭐
-- 🔺 上月增长率：23%
-- 📅 开源时间：2026-03-19
-- 📝 项目描述：Learn it. Build it. Ship it for others.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/JustVugg/colibri</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：38.4k
-- 🔺 上周增长数量：1284⭐
-- 🔺 上月增长数量：10971⭐
-- 📅 开源时间：2026-07-01
-- 📝 项目描述：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/calesthio/OpenMontage</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：61.9k
-- 🔺 上周增长数量：981⭐
-- 🔺 上月增长数量：10786⭐
-- 🔺 上月增长率：21%
-- 📅 开源时间：2026-03-29
-- 📝 项目描述：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/Panniantong/Agent-Reach</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：86.2k
-- 🔺 上周增长数量：1420⭐
-- 🔺 上月增长数量：10602⭐
-- 🔺 上月增长率：14%
-- 📅 开源时间：2026-02-24
-- 📝 项目描述：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16. 知识增强问答系统 https://github.com/Tencent/WeKnora</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：31.5k
-- 🔺 上周增长数量：1794⭐
-- 🔺 上月增长数量：10349⭐
-- 🔺 上月增长率：48%
-- 📅 开源时间：2025-07-22
-- 📝 项目描述：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/vorssaint/vorssaint-utils</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：22.1k
-- 🔺 上周增长数量：1518⭐
-- 🔺 上月增长数量：10241⭐
-- 🔺 上月增长率：86%
-- 📅 开源时间：2026-06-12
-- 📝 项目描述：Free and open-source macOS menu bar toolkit.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/Leonxlnx/taste-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：91.2k
-- 🔺 上周增长数量：1917⭐
-- 🔺 上月增长数量：10241⭐
-- 🔺 上月增长率：12%
-- 📅 开源时间：2026-02-20
-- 📝 项目描述：Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/paperclipai/paperclip</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：94.3k
-- 🔺 上周增长数量：9586⭐
-- 🔺 上月增长数量：9586⭐
-- 📅 开源时间：2026-03-02
-- 📝 项目描述：The open-source app everyone uses to manage agents at work
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/hypit-ai/hypit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：17.5k
-- 🔺 上周增长数量：3692⭐
-- 🔺 上月增长数量：9256⭐
-- 📅 开源时间：2026-07-30
-- 📝 项目描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">21.  https://github.com/bojieli/ai-agent-book</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：51.7k
-- 🔺 上周增长数量：1674⭐
-- 🔺 上月增长数量：9237⭐
-- 🔺 上月增长率：21%
-- 📅 开源时间：2025-09-09
-- 📝 项目描述：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">22.  https://github.com/zhaoxuya520/reverse-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：38.7k
-- 🔺 上周增长数量：1829⭐
-- 🔺 上月增长数量：9167⭐
-- 🔺 上月增长率：31%
-- 📅 开源时间：2026-05-13
-- 📝 项目描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">23.  https://github.com/emilkowalski/skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：41.9k
-- 🔺 上周增长数量：1582⭐
-- 🔺 上月增长数量：9096⭐
-- 🔺 上月增长率：27%
-- 📅 开源时间：2026-03-16
-- 📝 项目描述：Skills for Designers and Engineers.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">24.  https://github.com/k1tbyte/Wand-Enhancer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：29.9k
-- 🔺 上周增长数量：1148⭐
-- 🔺 上月增长数量：9028⭐
+- ⭐ 总星标数量：76k
+- 🔺 上周增长数量：5298⭐
+- 🔺 上月增长数量：22911⭐
 - 🔺 上月增长率：43%
-- 📅 开源时间：2024-11-18
-- 📝 项目描述：Advanced UX and interoperability extension for Wand (WeMod) app
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">25.  https://github.com/tashfeenahmed/freellmapi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：29.6k
-- 🔺 上周增长数量：1561⭐
-- 🔺 上月增长数量：8975⭐
-- 🔺 上月增长率：43%
-- 📅 开源时间：2026-04-21
-- 📝 项目描述：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">26.  https://github.com/ogulcancelik/herdr</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：41.4k
-- 🔺 上周增长数量：1218⭐
-- 🔺 上月增长数量：8861⭐
-- 🔺 上月增长率：27%
-- 📅 开源时间：2026-03-28
-- 📝 项目描述：the runtime your coding agents live on
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">27.  https://github.com/anywhere-labs/deepseek-harness-desktop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：29.5k
-- 🔺 上周增长数量：1004⭐
-- 🔺 上月增长数量：8809⭐
-- 🔺 上月增长率：42%
-- 📅 开源时间：2026-08-16
-- 📝 项目描述：为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">28.  https://github.com/heygen-com/hyperframes</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：54.2k
-- 🔺 上周增长数量：1852⭐
-- 🔺 上月增长数量：8509⭐
 - 📅 开源时间：2026-03-10
 - 📝 项目描述：Write HTML. Render video. Built for agents.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">29.  https://github.com/MadsLorentzen/ai-job-search</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/cathrynlavery/diagram-design</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：44.5k
-- 🔺 上周增长数量：799⭐
-- 🔺 上月增长数量：8170⭐
-- 🔺 上月增长率：22%
-- 📅 开源时间：2026-03-18
-- 📝 项目描述：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+- ⭐ 总星标数量：63.2k
+- 🔺 上周增长数量：2917⭐
+- 🔺 上月增长数量：20911⭐
+- 🔺 上月增长率：49%
+- 📅 开源时间：2026-04-17
+- 📝 项目描述：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30.  https://github.com/every-app/open-seo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/tt-a1i/archify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：21.7k
-- 🔺 上周增长数量：1718⭐
-- 🔺 上月增长数量：8141⭐
-- 🔺 上月增长率：59%
-- 📅 开源时间：2026-02-28
-- 📝 项目描述：Open source alternative to Semrush and Ahrefs
+- ⭐ 总星标数量：91.8k
+- 🔺 上周增长数量：3548⭐
+- 🔺 上月增长数量：20178⭐
+- 🔺 上月增长率：28%
+- 📅 开源时间：2026-04-15
+- 📝 项目描述：Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：23k
+- 🔺 上周增长数量：3345⭐
+- 🔺 上月增长数量：19820⭐
+- 📅 开源时间：2026-10-12
+- 📝 项目描述：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/bilawalsidhu/gods-eye-view</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：61.5k
+- 🔺 上周增长数量：2132⭐
+- 🔺 上月增长数量：19092⭐
+- 🔺 上月增长率：45%
+- 📅 开源时间：2026-06-23
+- 📝 项目描述：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13. NSA开源逆向工程工具 https://github.com/NationalSecurityAgency/ghidra</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：96.4k
+- 🔺 上周增长数量：2178⭐
+- 🔺 上月增长数量：16105⭐
+- 🔺 上月增长率：20%
+- 📅 开源时间：2019-03-01
+- 📝 项目描述：Ghidra is a software reverse engineering (SRE) framework
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/hugohe3/ppt-master</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：71.3k
+- 🔺 上周增长数量：4578⭐
+- 🔺 上月增长数量：14914⭐
+- 🔺 上月增长率：26%
+- 📅 开源时间：2025-12-10
+- 📝 项目描述：AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/tashfeenahmed/freellmapi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：44.6k
+- 🔺 上周增长数量：4399⭐
+- 🔺 上月增长数量：14381⭐
+- 📅 开源时间：2026-04-21
+- 📝 项目描述：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/storytold/wordcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：16.7k
+- 🔺 上周增长数量：1006⭐
+- 🔺 上月增长数量：13615⭐
+- 📅 开源时间：2026-10-11
+- 📝 项目描述：An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：17.7k
+- 🔺 上周增长数量：2471⭐
+- 🔺 上月增长数量：13574⭐
+- 📅 开源时间：2026-07-19
+- 📝 项目描述：Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/deepseek-ai/DeepInfer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：24.5k
+- 🔺 上周增长数量：3516⭐
+- 🔺 上月增长数量：12539⭐
+- 📅 开源时间：2026-10-21
+- 📝 项目描述：DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/diegosouzapw/OmniRoute</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：82.8k
+- 🔺 上周增长数量：2518⭐
+- 🔺 上月增长数量：12174⭐
+- 📅 开源时间：2026-02-13
+- 📝 项目描述：Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/calesthio/OpenMontage</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：73.3k
+- 🔺 上周增长数量：2170⭐
+- 🔺 上月增长数量：12043⭐
+- 🔺 上月增长率：19%
+- 📅 开源时间：2026-03-29
+- 📝 项目描述：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">21.  https://github.com/HKUDS/DeepTutor</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：51.6k
+- 🔺 上周增长数量：9343⭐
+- 🔺 上月增长数量：11120⭐
+- 📅 开源时间：2025-12-28
+- 📝 项目描述：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">22.  https://github.com/rohitg00/ai-engineering-from-scratch</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：75.7k
+- 🔺 上周增长数量：2968⭐
+- 🔺 上月增长数量：11056⭐
+- 📅 开源时间：2026-03-19
+- 📝 项目描述：Learn AI Engineering! Learn it. Build it. Ship it for others.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">23.  https://github.com/emilkowalski/skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：51.9k
+- 🔺 上周增长数量：2864⭐
+- 🔺 上月增长数量：10761⭐
+- 🔺 上月增长率：26%
+- 📅 开源时间：2026-03-16
+- 📝 项目描述：Skills for Designers and Engineers.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">24.  https://github.com/blader/humanizer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：62.7k
+- 🔺 上周增长数量：2724⭐
+- 🔺 上月增长数量：10676⭐
+- 🔺 上月增长率：20%
+- 📅 开源时间：2026-01-18
+- 📝 项目描述：Agent skill that removes signs of AI-generated writing from text
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">25.  https://github.com/hypit-ai/hypit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：26.8k
+- 🔺 上周增长数量：1759⭐
+- 🔺 上月增长数量：10450⭐
+- 🔺 上月增长率：63%
+- 📅 开源时间：2026-07-30
+- 📝 项目描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">26.  https://github.com/NVIDIA/OpenShell</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：20.8k
+- 🔺 上周增长数量：2126⭐
+- 🔺 上月增长数量：10284⭐
+- 📅 开源时间：2026-02-25
+- 📝 项目描述：OpenShell is the safe, private runtime for autonomous AI agents.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">27.  https://github.com/NandhaKishorM/laya</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：34.7k
+- 🔺 上周增长数量：617⭐
+- 🔺 上月增长数量：10232⭐
+- 🔺 上月增长率：41%
+- 📅 开源时间：2026-09-21
+- 📝 项目描述：Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">28.  https://github.com/vorssaint/vorssaint-utils</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：31.2k
+- 🔺 上周增长数量：1665⭐
+- 🔺 上月增长数量：9874⭐
+- 🔺 上月增长率：46%
+- 📅 开源时间：2026-06-12
+- 📝 项目描述：Free and open-source macOS menu bar toolkit.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">29.  https://github.com/tester-army/e2e</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：12.3k
+- 🔺 上周增长数量：546⭐
+- 🔺 上月增长数量：9362⭐
+- 📅 开源时间：2026-07-22
+- 📝 项目描述：Next generation e2e testing framework for web and mobile apps.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">30.  https://github.com/Alishahryar1/free-claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：65.2k
+- 🔺 上周增长数量：2326⭐
+- 🔺 上月增长数量：9229⭐
+- 🔺 上月增长率：16%
+- 📅 开源时间：2026-01-29
+- 📝 项目描述：Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 
 
@@ -356,6 +352,9 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 ��源项目,请关注微信&公众号
